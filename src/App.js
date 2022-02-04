@@ -1,4 +1,7 @@
 import { useState, useEffect } from 'react';
+import { Routes, Route } from 'react-router-dom';
+import { isMobile } from 'react-device-detect';
+import { useTranslation } from 'react-i18next';
 import { Navbar } from './components/Navbar/Navbar';
 import { Menu } from './components/Menu/Menu';
 import { Footer } from './components/Footer/Footer';
@@ -7,14 +10,13 @@ import { AudiosPage } from './pages/AudiosPage';
 import { AudioPage } from './pages/AudioPage';
 import { AboutPage } from './pages/AboutPage';
 import { ArtistsPage } from './pages/ArtistsPage';
-import { Routes, Route } from 'react-router-dom';
 import { ImprintPage } from './pages/ImprintPage';
 import ExhibitionPage from './pages/ExhibitionPage';
 import ExhibitPage from './pages/ExhibitPage';
-import { useTranslation } from 'react-i18next';
 import Cursor from './components/Cursor/Cursor';
 import Loader from './components/Loader/Loader';
-import { isMobile } from 'react-device-detect';
+
+import ScrollToTop from './components/helper/ScrollToTop';
 
 function App() {
 	const [showMenu, setShowMenu] = useState(false);
@@ -34,6 +36,7 @@ function App() {
 
 	return (
 		<>
+			<ScrollToTop />
 			<Loader />
 			{!isMobile ? <Cursor /> : null}
 			{showMenu ? <Menu handleToggleShowMenu={handleToggleShowMenu} /> : null}

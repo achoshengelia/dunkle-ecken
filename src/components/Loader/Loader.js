@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import styled from 'styled-components';
 import loader from '../../assets/preloader/intro.mp4';
 import mobileloader from '../../assets/preloader/IntroMobile.mp4';
-import useWindowDimensions from '../../assets/hooks/useWindowDimensions';
+import useWindowDimensions from '../../hooks/useWindowDimensions';
 
 const Video = styled.video`
 	position: fixed;

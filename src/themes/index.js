@@ -1,28 +1,27 @@
-import { ThemeProvider, createGlobalStyle } from "styled-components";
-import lackregular from "../assets/fonts/lack-regular-webfont.woff";
-import lackitalic from "../assets/fonts/lack-italic-webfont.woff";
-import lacklineregular from "../assets/fonts/lack-line-regular-webfont.woff";
-import lacklineitalic from "../assets/fonts/lack-line-italic-webfont.woff";
-import mouse from "../assets/Happy.png";
+import { ThemeProvider, createGlobalStyle } from 'styled-components';
+import lackregular from '../assets/fonts/lack-regular-webfont.woff';
+import lackitalic from '../assets/fonts/lack-italic-webfont.woff';
+import lacklineregular from '../assets/fonts/lack-line-regular-webfont.woff';
+import lacklineitalic from '../assets/fonts/lack-line-italic-webfont.woff';
 
 const theme = {
-  fonts: {
-    title: "'lackregular', 'Helvetica', 'Arial', 'sans-serif'",
-    main: "'Montserrat', 'Helvetica', 'Arial', 'sans-serif'",
-  },
-  colors: {
-    primary1: "rgba(229, 229, 229, 1)",
-    background: "rgba(0, 0, 0, 1)",
-    primaryYellow: "rgba(235, 255, 6, 1)",
-  },
-  breakpoints: {
-    xs: "screen and (max-width: 440px)",
-    sm: "screen and (max-width: 640px) and (min-width: 441px)",
-    md: "screen and (max-width: 918px) and (min-width: 641px)",
-    lg: "screen and (max-width: 1124px) and (min-width: 919px)",
-    xl: "screen and (max-width: 1280px) and (min-width: 1125px)",
-    xxl: "screen and (min-width: 1281px)",
-  },
+	fonts: {
+		title: "'lackregular', 'Helvetica', 'Arial', 'sans-serif'",
+		main: "'Montserrat', 'Helvetica', 'Arial', 'sans-serif'",
+	},
+	colors: {
+		primary1: 'rgba(229, 229, 229, 1)',
+		background: 'rgba(0, 0, 0, 1)',
+		primaryYellow: 'rgba(235, 255, 6, 1)',
+	},
+	breakpoints: {
+		xs: 'screen and (max-width: 440px)',
+		sm: 'screen and (max-width: 640px) and (min-width: 441px)',
+		md: 'screen and (max-width: 918px) and (min-width: 641px)',
+		lg: 'screen and (max-width: 1124px) and (min-width: 919px)',
+		xl: 'screen and (max-width: 1280px) and (min-width: 1125px)',
+		xxl: 'screen and (min-width: 1281px)',
+	},
 };
 
 const GlobalStyles = createGlobalStyle`
@@ -56,20 +55,19 @@ const GlobalStyles = createGlobalStyle`
     box-sizing: inherit;
   }
   *::selection{
-    background: ${(props) => props.theme.colors.primaryYellow};
+    background: ${props => props.theme.colors.primaryYellow};
     color: black;
   }
   html {
     font-size: 62.5%;
-    scroll-behavior: smooth;
+    /* scroll-behavior: smooth; */
   }
   body {
     box-sizing: border-box;
-    font-family: ${(props) => props.theme.fonts.main};
+    font-family: ${props => props.theme.fonts.main};
     font-size: 1.6rem;
-    background-color: ${(props) => props.theme.colors.background};
-    color: ${(props) => props.theme.colors.primary1};
-    /* cursor: url(${mouse}) 20 12, default; */
+    background-color: ${props => props.theme.colors.background};
+    color: ${props => props.theme.colors.primary1};
     cursor: none;
     height: 100%;
     /* position: relative; */
@@ -85,7 +83,7 @@ const GlobalStyles = createGlobalStyle`
    
   }
   h1,h2,h3,h4,h5,h6,button {
-    font-family: ${(props) => props.theme.fonts.title};
+    font-family: ${props => props.theme.fonts.title};
   }
   a {
     text-decoration: none;
@@ -99,10 +97,10 @@ const GlobalStyles = createGlobalStyle`
 `;
 
 const Theme = ({ children }) => (
-  <ThemeProvider theme={theme}>
-    <GlobalStyles />
-    {children}
-  </ThemeProvider>
+	<ThemeProvider theme={theme}>
+		<GlobalStyles />
+		{children}
+	</ThemeProvider>
 );
 
 export default Theme;
