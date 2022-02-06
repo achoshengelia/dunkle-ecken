@@ -5,16 +5,9 @@ import Audios from '../components/Audio/Audio';
 import { audioIT, audioDE } from '../data';
 
 export const AudiosPage = () => {
-	const { t, i18n } = useTranslation();
-	const navigate = useNavigate();
+	const { i18n } = useTranslation();
 
-	if (i18n.language === 'en') {
-		navigate('/');
-	} else if (i18n.language === 'de') {
-		return <Audios audioData={audioDE} />;
-	} else {
-		return <Audios audioData={audioIT} />;
-	}
+	return <Audios audioData={i18n.language === 'de' ? audioDE : audioIT} />;
 };
 
 // export default AudioPage;

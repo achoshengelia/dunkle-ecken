@@ -1,3 +1,10 @@
+import styled from 'styled-components';
+
+const LinkArrowContainer = styled.span`
+	transform: rotate(220deg) translateY(25%);
+	display: inline-block;
+`;
+
 export const Mainlogo = props => {
 	return (
 		<svg
@@ -161,4 +168,18 @@ export const MousePointer = props => (
 			{'+'}
 		</text>
 	</svg>
+);
+
+export const LinkArrow = props => (
+	<LinkArrowContainer>
+		<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 25 25' {...props}>
+			<path
+				className='link-arrow'
+				style={{
+					fill: '#fff',
+				}}
+				d='m18.294 16.793-5.293 5.293V1h-1v21.086l-5.295-5.294-.707.707L12.501 24l6.5-6.5-.707-.707z'
+			/>
+		</svg>
+	</LinkArrowContainer>
 );

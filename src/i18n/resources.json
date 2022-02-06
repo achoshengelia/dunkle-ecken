@@ -1,559 +1,559 @@
 {
-  "en": {
-    "translation": {
-      "menu": {
-        "home": "Home",
-        "exhibition": "Exhibition",
-        "audio": "",
-        "about": "About",
-        "artists": "Artists"
-      },
-      "home": {
-        "text": {
-          "paragraph1": "For weeks, the Corona pandemic has kept the world in suspense, and has fundamentally altered everyday life. Shutdowns, contact restrictions, and curfews are forcing millions of people to spend many hours at home, waiting. Isolation also means being exposed to one's own feelings without protection or distraction.",
-          "paragraph2": "Especially for people who now have to spend a lot of time alone, their own four walls quickly lose their protective function, and reinforce the silence and emptiness of their own surroundings. Negative feelings like tension, fear and loneliness quickly spread. For people with mental illness, these measures can be a considerable burden and can intensify any already existing pain.",
-          "paragraph3": "It is particularly difficult to talk about this. We live in a society in which it is still easier to talk about physical pain than about mental pain. Stigmatisation and stereotyping have led to mental health being a taboo subject for many people.",
-          "paragraph4": "This is the intention of the exhibition 'Dark Corners': to finally break the silence and create the space for a dialog about mental health, which is not visible but weighs all the more heavily. 22 young artists have approached the subject from very different perspectives. The exhibition also features voices that share their own personal stories and experiences relating to mental health."
-        },
-        "link": "Exhibition archive"
-      },
-      "about": {
-        "text": {
-          "part1": "Organised by ",
-          "part2": " and ",
-          "part3": ", the exhibition brings together 17 works of art by young artists and exhibits them online during the",
-          "part4": "'Underground' cultural festival. 'Dark Corners' sheds some light on the topic of mental health, considering it from a variety of perspectives in order to dissolve traditional attitudes, and associated stigmas. The exhibition aims to increase the visibility of the subject in order to promote a discourse on the integrity and transparency of mental health in our society."
-        },
-        "subtitle": "LanaLive showcase exhibition in 2020, Photo: Flyle",
-        "text2": {
-          "part1": "A big thanks to those who supported this project: ",
-          "part2": ", ",
-          "part3": ", Judith Rubatscher, Ruth Kronbichler and Julia Moser."
-        }
-      },
-      "imprint": {
-        "text": {
-          "paragraph1": "IMRINT",
-          "paragraph2": "Photo credits",
-          "paragraph3": "The copyright of the illustrations is owned by the artists* themselves, unless otherwise stated. In some cases the copyright holders could not be identified.",
-          "paragraph4": "All texts, photos and information are protected by copyright.",
-          "paragraph5": "Concept & Design",
-          "paragraph6": "Proofreading",
-          "paragraph7": "Sergei Saraiva",
-          "paragraph8": "Text",
-          "paragraph9": "Limitation of liability for external links",
-          "paragraph10": "Our website contains links to the websites of third parties (“external links”). As the content of these websites is not under our control, we cannot assume any liability for such external content. In all cases, the provider of information of the linked websites is liable for the content and accuracy of the information provided. At the point in time when the links were placed, no infringements of the law were recognisable to us. As soon as an infringement of the law becomes known to us, we will immediately remove the link in question.",
-          "paragraph11": "Disclaimer for the use of the content of this website.",
-          "paragraph12": "The copyrights regarding the use of images of works of art always lie with the respective rights holders. This web portal can contain third-party content or can be linked to third-party content that is relevant under criminal law. Please ask us before you distribute, reproduce or exploit the content of this website, such as republishing it on other websites. Limitation of liability for external linksOur website contains links to the websites of third parties (“external links”). As the content of these websites is not under our control, we cannot assume any liability for such external content. In all cases, the provider of information of the linked websites is liable for the content and accuracy of the information provided. At the point in time when the links were placed, no infringements of the law were recognisable to us. As soon as an infringement of the law becomes known to us, we will immediately remove the link in question.",
-          "paragraph13": "",
-          "paragraph14": "Special thanks to the 3D Folded DOM Layout Plugin by Daniel Velasquez published on Cropdrops.",
-          "paragraph15": "To the GitHub repository."
-        }
-      },
-      "exhibitionData": {
-        "fiona": {
-          "info": {
-            "part1": "Installation, 2019 ",
-            "part2": "Photo: Manuel Ahnemüller"
-          },
-          "description": {
-            "paragraph1": "How do we experience the stability of the ground? Which parameters define the instability of our environment? Stable ground keeps us from falling.",
-            "paragraph2": "The installation is based on material displacement; when choosing materials with different structural stability and different material conditions, you are confronted with a walkable structure. These materials surround us in everyday life, but as part of larger structures they usually remain invisible. Walking through the installation creates a tactile experience."
-          }
-        },
-        "winona": {
-          "info": "Installation",
-          "description": {
-            "paragraph1": "The un/stable range of seating furniture includes two groups that contribute to a modification of the sitting sensation. What happens if the seating no longer conforms to the original habits? Is it conceivable to create a different level of communication by changing the furniture?"
-          }
-        },
-        "david": {},
-        "raphael": {
-          "link": "See work",
-          "description": {
-            "paragraph1": "'The three-part act connects with the humanitarian intelligence of our society, it is divided into the 'bite' - 'smell' - 'look'. The biting of fingernails calms me in my dystopian state.",
-            "paragraph2": "I bite faster and harder, only small pieces of nail are torn and bitten off with my incisors. I can think and bite.",
-            "paragraph3": "The smell of the fingernail makes me understand what I am doing. A part of me thinks I smell myself. The smell gives me a temporary feeling of well-being, afterwards my body has the will to bite further. The stress is materialised and reduced.",
-            "paragraph4": "Looking determines where I really am. I determine which nails are still to be bitten. The moment of looking transforms into a new beginning of the three-part act."
-          }
-        },
-        "lukas": {
-          "info": "Installation",
-          "link": "See work",
-          "description": {
-            "paragraph1": "When one takes part in life in a society, one automatically; consciously or unconsciously; voluntarily or compulsorily; integrates into structures. These structures can be either open, or narrow. They can give the individual stability and support, but also inhibit, restrict, or limit their potential, abilities or even their rights.",
-            "paragraph2": "The awareness of their presence usually only sets in when there is a negative influence on doing, acting and thinking. If one finds oneself in a state of powerless recognition that one has settled into structures that do not correspond to one's own self-image, self-doubt sets in. Growing self-doubts can lead to an unstable existence.",
-            "paragraph3": "Explicit structures in everyday life should help people with mental illnesses in particular to find their way back to a regulated state of being. The predefined structures of the objects shown here force you to orient yourself by them. A comfortable sitting position is only possible if one adopts and conforms to the intended posture.",
-            "paragraph4": "He who submits, fills, fills the joint. If one fills, one holds. One holds together, supports. Takes the empty space. Take the space. Space takes movement. Takes freedom. Gives support - one receives support. One experiences. Is relieved. Gives way."
-          }
-        },
-        "manfred": {
-          "info": {
-            "part1": "Installation, ",
-            "part2": "2017 Photo: Franziska Ziegler"
-          },
-          "link": "See work",
-          "description": "The project the last shirt has no pockets offers a contemporary alternative to traditional funeral rituals. By slowly dressing the corpse, it wants to establish a last intimate moment between him and the bereaved, thus offering a dignified farewell."
-        },
-        "isa": {
-          "info": "Photography",
-          "description": {
-            "paragraph1": "In Isabelle Östlund's series THE BLUES, the state of mind becomes reality. The depression, formerly known as 'melancholy', 'blackness of the bile', goes back in history to the ancient Greek doctor Hippocrates. He described the disease as a acute disorder that causes both mental and physical symptoms in 'anxiety and despair when they last a long time'. The concept of a depressive disorder according to the WHO (ICD-10), is a similar but much broader concept.",
-            "paragraph2": "Emil Kraeplin, a German psychiatrist, was one of the first to use the term 'depression', when referring to different types of 'melancholy'. Today, the term depression refers to many different mental states: from mental dejection to pathological mood disorders.",
-            "paragraph3": "THE BLUES - the feelings of emptiness, hopelessness and sadness - are composed portraits. They were inspired by the masters of the art and history of depression.",
-            "paragraph4": "Source:",
-            "paragraph5": "Johannisson, Karin (2013): Melankoliska rum. Om ångest, leda och sårbarhet i förfluten tid och nutid. Stockholm (Albert Bonniers förlag).",
-            "paragraph6": "Davison, K (2006): Historical aspects of mood disorders. Psychiatry. 5 (4): 115-18",
-            "paragraph7": "Organization, World Health / Staff, WHO / WHO, WHO (1992): The ICD-10 Classification of Mental and Behavioural Disorders. Clinical Descriptions and Diagnostic Guidelines. Geneva, Switzerland (World Health Organization)."
-          }
-        },
-        "elisa": {
-          "link": "See work",
-          "description": "Black Hole documents the inner-workings of a vacuum cleaner. The amusing first impression gained by the shift in scale and the absurdity of the experience soon gives way to a feeling of hopelessness. One is powerless at the mercy of the booming sound and the view into the abyss of the black hole, which mercilessly absorbs matter and increases in mass. Caught in the undertow, you transform into a shrunken Gregor Samsa, and become a carelessly sucked-in insect yourself."
-        },
-        "nia": {
-          "info": "Audio",
-          "description": {
-            "paragraph1": "'In an attempt to paraphrase my struggles with words, I sometimes, almost by accident, write poems. The truth is that it is not I who write the poems, - the poems write themselves. At least that's how it feels.'",
-            "paragraph2": "Nia Lejander recorded some of her poems from the diary, which were written in low points. Partly ironically funny or deeply sad look at life."
-          }
-        },
-        "carole": {
-          "info": "Foto Collage",
-          "description": "Having borderline personality disorder means constantly living between the best and worst version of oneself, often crossing the boundaries of emotion and reason. The artist deals with her past, visualises and processes life between such extremes. As a child, she could never imagine the path her life would take on account of this unpredictable condition."
-        },
-        "merani": {
-          "info": "Sculpture",
-          "link": "See work",
-          "description": {
-            "paragraph1": "autoantibody.1",
-            "paragraph2": "shooting yourself in the foot hurting your own interests",
-            "paragraph3": "autoantibody.2",
-            "paragraph4": "(sich) ein Bein ausreißen",
-            "paragraph5": "putting a lot of effort into something literal; translation: pulling out a leg",
-            "paragraph6": "An autoantibody is a type of antibody that is produced by an organism's immune system to attack its own healthy tissue.",
-            "paragraph7": "Autoantibody.1 and autoantibody.2 are part of an ongoing series of self-destructive stools."
-          }
-        },
-        "indra": {
-          "link": "See work",
-          "description": {
-            "paragraph1": "The piece Sick (of) Me, introduces viewers to the emotional world of individuals suffering from mental illness. With the help of face filters the described feelings are rendered abstractly. They visualise how the interviewed persons feel when they are intensively confronted with their illness in everyday life.",
-            "paragraph2": "(addressing experiences of the individual, and not mental illness in general)"
-          }
-        },
-        "dovile": {
-          "info": "4-channel video installation, 4:15 min, loop, 2019",
-          "description": "Fear is one of the most important emotions, and is directly related to the inherent human need for security. The video installation tries to make the state of fear tangible in its various stages. It refers to natural elements such as wind, rain and fog. The emotional states fluctuate between the feeling of closeness and distance, resembling external forces, and the forces of nature. The number four refers to natural cycles, the four seasons or four phases of the moon. The project takes up this circularity of natural events, which have no defined linear goal."
-        },
-        "ale": {
-          "link": "See work",
-          "description": {
-            "paragraph1": "The project is inspired by Francesca Rigotti's book ",
-            "paragraph2": "De senectute",
-            "paragraph3": ", which deals not only with the age of women, but also with what distinguishes women from men in this phase of life: the loss of fertility.",
-            "paragraph4": "The film begins with words from a young woman who experiences the biological changes in her body. The woman in the green dress is locked up in an abstract prison made of a loop of gesture and image. In her drama alone, she is the only thing that is irrevocably repeated without end."
-          }
-        },
-        "valentina": {
-          "link": "See work",
-          "description": {
-            "paragraph1": "While waiting, we often experience time as extremely slow, or even viscous. One minute can feel like a year. This hand-drawn animation shows a girl experiencing this phenomenon. When we are in the process of waiting, the space we are in becomes a microcosm.",
-            "paragraph2": "Our observation and attention work like a magnifying glass, and every sensual detail takes on a higher significance. In this state we experience the world as a foreign reality and slide into a state of daydream."
-          }
-        },
-        "hilka": {
-          "info": "Installation",
-          "description": "Testing collectivity is an ongoing experiment. You are invited to participate. The connections are participatory, and lead to cooperation. Their use requires communication. They create the structure to open up new space for exploration. The human creates the collective experience as part of the object. The only productive added-value is an emotional experience. The collective action is for its own sake. It is not efficient."
-        },
-        "asisi": {
-          "info": "Installation",
-          "description": {
-            "paragraph1": "Most dreams take place during REM (Rapid Eye Movement) sleep. In this restless phase of sleep, we process and manage problems from our waking life, we are confronted with our fears and imperfections, we prepare for the future, we forget and we remember.",
-            "paragraph2": "This installation attempts to bring the strongly anthropo-morphic process of dreaming into the world of machines and automata. Piece by piece, new images emerge from the visual memory of the machine, which are more than simply memory, and provide insight into a speculative subconscious."
-          }
-        },
-        "montau": {
-          "info": "Audiovisual installation",
-          "link": "See work",
-          "description": {
-            "paragraph1": "The exhibition ",
-            "paragraph2": "Dark Corners ",
-            "paragraph3": " and the entire festival LanaLive “Underground” conclude a highly sensitive, audiovisual installation by Montau. The composer and producer, who lives in Berlin, creates tense, hypnotic grooves and melanchonic soundscapes that move between thick walls of sound and thundering drum arrangements.",
-            "paragraph4": "The premieretook place on May 31st at 8:00 p.m. With meditative sounds and chromatic color movements, he invites you to relax, conjures up the mental health and closes the gates to the underworld."
-          }
-        }
-      },
-      "footer": {
-        "imprint": "Imprint"
-      }
-    }
-  },
-  "de": {
-    "translation": {
-      "menu": {
-        "home": "Home",
-        "exhibition": "Ausstellung",
-        "audio": "Beiträge",
-        "about": "About",
-        "artists": "Künstler*innen"
-      },
-      "home": {
-        "text": {
-          "paragraph1": "Seit Monaten hält die Corona-Pandemie die Welt im Atem. Ausgangsbeschränkungen und Social Distancing gehörten plötzlich zu unserem Alltag dazu. All jene Dinge, die Sicherheit und Halt geben und den Alltag strukturieren, fallen weg. Viele Menschen sind mit ihren Gefühlen und Ängsten allein in der häuslichen Isolation.",
-          "paragraph2": "Bei Menschen mit psychischen Krankheiten können diese Maßnahmen eine erheblich Belastung darstellen und bereits bestehendes Leid verstärken.  Zudem leben wir in einer Gesellschaft, in der es noch immer leichter ist, über körperliche Schmerzen zu sprechen als über seelische. Stigmatisierung und Stereotypisierung haben dazu geführt, dass die psychische Befindlichkeit für viele als Tabuthema gilt.",
-          "paragraph3": "Die Kunstausstellung Dunkle Ecken will ihren Beitrag zur Entstigmatisierung von psychischen Erkrankungen leisten und einen Raum für den seelischen Schmerz schaffen, der zwar nicht sichtbar ist, aber umso schwerer wiegt.",
-          "paragraph4": "22 junge Kunstschaffenden haben sich dem Thema aus ganz unterschiedlichen Perspektiven genähert. Ebenso sind in der Ausstellung auch Stimmen zu hören, die ihre ganz persönlichen Geschichten und Erfahrungen mit der eigenen Psyche teilen."
-        },
-        "link": "Ausstellungsarchiv"
-      },
-      "about": {
-        "text": {
-          "part1": "Die von ",
-          "part2": " (Konzept und Kuration) und ",
-          "part3": " (Projektkoordination und Assistenz Kuration) ausgerichtete Ausstellung versammelte 17 Kunstwerke von jungen Kunstschaffenden und zeigte sie während des Kulturfestivals ",
-          "part4": " „Underground“ online. „Dunkle Ecken“ beleuchtete das Thema psychische Gesundheit und betrachtete es aus verschiedenen Perspektiven, um die herkömmliche Anschauung und damit verbundenen Stigmen aufzulösen. Die Ausstellung hatte zum Ziel die Sichtbarkeit des Themas zu verstärken, um einen Diskurs zur Integrität und Transparenz psychischer Gesundheit in unserer Gesellschaft zu fördern."
-        },
-        "subtitle": "LanaLive Vitrinenausstellung in 2020. Photo: Flyle",
-        "text2": {
-          "part1": "Ein großes Dankeschön an alle, die dieses Projekt unterstützt haben: ",
-          "part2": ", ",
-          "part3": ", Judith Rubatscher, Ruth Kronbichler und Julia Moser."
-        }
-      },
-      "imprint": {
-        "text": {
-          "paragraph1": "IMPRESSUM",
-          "paragraph2": "Bildnachweise",
-          "paragraph3": "The copyright of the illustrations is owned by the artists* themselves, unless otherwise stated. In some cases the copyright holders could not be identified.",
-          "paragraph4": "Alle Texte, Fotos und Informationen sind urheberrechtlich geschützt.",
-          "paragraph5": "Konzeption & Gestaltung",
-          "paragraph6": "Korrektur",
-          "paragraph7": "Raphia Zouaoui",
-          "paragraph8": "Text",
-          "paragraph9": "Haftungshinweis ",
-          "paragraph10": "Wir entwickeln die Inhalte dieser Webseite ständig weiter und bemühen uns korrekte und aktuelle Informationen bereitzustellen. Laut Telemediengesetz (TMG) §7 (1) sind wir als Diensteanbieter für eigene Informationen, die wir zur Nutzung bereitstellen, nach den allgemeinen Gesetzen verantwortlich. Leider können wir keine Haftung für die Korrektheit aller Inhalte auf dieser Webseite übernehmen, speziell für jene die seitens Dritter bereitgestellt wurden.Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.",
-          "paragraph11": "Haftungsausschlusserklärung für die Verwendung der Inhalte dieser Website.",
-          "paragraph12": "Die Urheberrechte bezüglich der Nutzung von Abbildungen von Kunstwerken liegen immer bei den jeweiligen Rechteinhabern. Dieses Webportal kann Inhalte Dritter enthalten oder mit Inhalten Dritter verlinkt sein, die strafrechtlich relevant sind. Bitte fragen Sie uns bevor Sie die Inhalte dieser Website verbreiten, vervielfältigen oder verwerten wie zum Beispiel auf anderen Websites erneut veröffentlichen.",
-          "paragraph13": "",
-          "paragraph14": "Ein großes Dankeschön für das 3D Folded DOM Layout Plugin von Daniel Velasquez veröffentlicht auf Cropdrops.",
-          "paragraph15": "Zum Link"
-        }
-      },
-      "exhibitionData": {
-        "fiona": {
-          "info": {
-            "part1": "Installation, 2019",
-            "part2": "Foto: Manuel Ahnemüller"
-          },
-          "description": {
-            "paragraph1": "Wie erleben wir die Stabilität des Bodens? Welche Parameter definieren die Instabilität unserer Umgebung? Der stabile Boden ist ein Grundbedürfnis des Alltags. ",
-            "paragraph2": "Die Installation basiert auf Material-verschiebung. Bei der Auswahl von Materialien mit unterschiedlicher struktureller Stabilität und unter-schiedlichen Materialbedingungen werden Sie mit einer begehbaren Struktur konfrontiert. Diese Materialien umgeben uns im Alltag, bleiben aber als Teil größerer Strukturen meist unsichtbar. Das Durchlaufen der Installation schafft eine taktile Erfahrung."
-          }
-        },
-        "winona": {
-          "info": "Installation",
-          "description": {
-            "paragraph1": "Die Reihe der Sitzmöbel „un/stable“ umfasst zwei Gruppen, die zur Veränderung des Sitzgefühls beitragen. Was passiert, wenn die Sitzgelegenheiten nicht mehr den ursprünglichen Gewohnheiten entsprechen? Ist es vorstellbar, durch Veränderung des Mobiliars eine andere Ebene der Kommunikation zu schaffen?"
-          }
-        },
-        "david": {},
-        "raphael": {
-          "link": "Zum Werk",
-          "description": {
-            "paragraph1": "Der dreiteilige Akt verbindet sich mit der humanitären Intelligenz unserer Gesellschaft, er teilt sich ein in das „Beißen“ - „Riechen“ - „Schauen'. Das Beißen von Fingernägeln beruhigt mich in meinem dysthopischen Zustand.",
-            "paragraph2": "Ich beisse schneller und fester, nur kleine Nagelstücke werden gerissen und mit meinen Schneidezähnen abgebissen. Ich kann denken und beissen.",
-            "paragraph3": "Das Riechen des Fingernagels lässt mich verstehen was ich tue. Ein Teil von mir  denkt, ich rieche mich selbst. Der Geruch gibt mir ein kurzzeitiges Gefühl der Wohltuung, anschließend hat mein Körper den Willen weiter zu beissen. Der Stress wird materialisiert und abgebaut.",
-            "paragraph4": "Das Schauen stellt fest, wo ich wirklich bin. Ich stelle fest welche Nägel noch zu beißen sind. Der Moment des Schauens transformiert zum Neuanfang des dreiteiligen Aktes."
-          }
-        },
-        "lukas": {
-          "info": "Installation",
-          "link": "Zum Werk",
-          "description": {
-            "paragraph1": "Nimmt man am Leben in einer Gesellschaft teil, gliedert man sich automatisch, sei es bewusst oder unbewusst, freiwillig oder gezwungenermaßen in Strukturen ein. Diese sind offen oder eng gefasst sein. Sie können dem/der Einzelnen Halt geben und unterstützen, ihn aber auch hemmen, einengen oder in seinen/ihren Möglichkeiten, Fähigkeiten oder auch seinem/ihrem Recht beschneiden. ",
-            "paragraph2": "Das Bewusstsein über deren Präsenz setzt meist erst dann ein, wenn eine negative Beeinflussung des Tuns, Handelns und Denkens stattfindet. Findet man sich in einem Zustand der ohnmächtigen Erkenntnis darüber wieder, dass man sich in Strukturen eingelebt hat, die dem eigenen Selbstbild nicht entsprechen, setzen Selbstzweifel ein. Wachsende Selbstzweifel können zu einem haltlosen Dasein führen.",
-            "paragraph3": "Explizite Strukturen im Alltag sollen besonders auch bei mentalen Erkrankungen dabei helfen zu einem geregelten Zustand zurückzufinden. Die vordefinierten Strukturen der hier gezeigten Objekte zwingen ein jeden sich an ihnen zu orientieren. Eine bequeme Sitzposition ist erst dann möglich, wenn man sich der vorgedachten Haltung annimmt und fügt."
-          }
-        },
-        "manfred": {
-          "info": {
-            "part1": "Installation, ",
-            "part2": "2017 Foto: Franziska Ziegler"
-          },
-          "link": "Zum Werk",
-          "description": "Das Projekt „das letzte Hemd hat keine Taschen” schafft eine zeitgemäße Alternative zu herkömmlichen Bestattungsritualen. Es will durch ein langsames Ankleiden des Leichnams einen letzten intimen Moment zwischen ihm und den Hinterbliebenen schaffen und so einen würdevollen Abschied ermöglichen."
-        },
-        "isa": {
-          "info": "Photographie",
-          "description": {
-            "paragraph1": "In Isabelle Östlunds Serie „THE BLUES” wird der Geisteszustand zur Realität. Die Depressionen, die früher als „Melancholie”, „Schwärze der Galle”, bekannt war, gehen in der Geschichte bis zu dem altgriechischen Arzt Hippokrates zurück. Er beschrieb die Krankheit als eine ausgeprägte Erkrankung, die geistige und körperliche Symptome in „Ängste und Verzweiflung, wenn sie lange andauern” einschließt. Die Auffassung von depressiver Störung laut der WHO (ICD-10) ist ein ähnliches, aber weitaus breiteres Konzept. ",
-            "paragraph2": "Emil Kraeplin, ein deutscher Psychiater, war einer der ersten, der den Begriff „Depression” verwendete, um sich auf verschiedene Arten von „Melancholie” zu beziehen. Heute bezeichnet der Begriff Depression viele unterschiedliche psychische Zustände: von seelischer Niedergeschlagenheit bis zur krankhaften Stimmungsstörung.",
-            "paragraph3": "THE BLUES - die Gefühle von Leere, Hoffnungslosigkeit und Traurigkeit - sind komponierte Porträts. Inspiriert wurden sie von den Meistern der Kunst und Geschichte der Depression.",
-            "paragraph4": "Quellen:",
-            "paragraph5": "Johannisson, Karin (2013): Melankoliska rum. Om ångest, leda och sårbarhet i förfluten tid och nutid. Stockholm (Albert Bonniers förlag).",
-            "paragraph6": "Davison, K (2006): Historical aspects of mood disorders. Psychiatry. 5 (4): 115-18",
-            "paragraph7": "Organization, World Health / Staff, WHO / WHO, WHO (1992): The ICD-10 Classification of Mental and Behavioural Disorders. Clinical Descriptions and Diagnostic Guidelines. Geneva, Switzerland (World Health Organization)."
-          }
-        },
-        "elisa": {
-          "link": "Zum Werk",
-          "description": "„Black Hole“ dokumentiert das Innenleben eines Staubsaugers. Der amüsierende erste Eindruck, den man durch die Verschiebung der Größenverhältnisse und der Absurdität des Erlebten erhält, weicht bald dem Gefühl der Ausweglosigkeit. Dem dröhnenden Sound und dem Blick in den Abgrund des Schwarzen Lochs, das erbarmungslos Materie absorbiert und an Masse zunimmt, ist man machtlos ausgeliefert. Gefangen im Sog verwandelt man sich in einen geschrumpften Gregor Samsa und wird selbst zum achtlos eingesaugten Insekt."
-        },
-        "nia": {
-          "info": "Audio",
-          "description": {
-            "paragraph1": "In dem Versuch, meine Kämpfe mit Worten zu umschreiben, schreibe ich manchmal, fast zufällig, Gedichte. Die Wahrheit ist, dass nicht ich es bin, die die Gedichte schreibt, - die Gedichte schreiben sich selbst. Zumindest fühlt es sich so an.",
-            "paragraph2": "Nia Lejander hat einige ihrer Gedichte aus ihrem Tagebuch vertont, die in Tiefpunkten entstanden sind. Teils ironisch witzig oder tieftraurig blickt sie auf das Leben."
-          }
-        },
-        "carole": {
-          "info": "Fotocollage",
-          "description": "Eine Borderline-Persönlichkeitsstörung zu haben bedeutet, dass man ständig zwischen der besten und schlechtesten Version des eigenen Selbst lebt und oft die Grenzen von Emotionen und Vernunft überschreitet. Die Künstlerin beschäftigt sich mit ihrer Vergangenheit, visualisiert und verarbeitet das Leben zwischen den Extremen. Als Kind konnte sie sich ihren zukünftigen Lebensweg, aufgrund dieser schwer einschätzbaren Kondition, nicht ausmalen."
-        },
-        "merani": {
-          "info": "Skulptur",
-          "link": "Zum Werk",
-          "description": {
-            "paragraph1": "Ein Autoantikörper (autoantibody) ist ein Antikörper der vom körpereigenen Immunsystem eines Organismus produziert wird, um offensiv gegen sein eigenes gesundes Gewebe anzugehen.",
-            "paragraph2": "autoantibody.1 und autoantibody.2 sind Teil einer fortlaufenden Reihe von sich selbst zerstörerischen Hockern."
-          }
-        },
-        "indra": {
-          "link": "Zum Werk",
-          "description": {
-            "paragraph1": "Die Arbeit “Sick (of) Me” führt die Betrachtenden in die Gefühlswelt einzelner Individuen ein, die an psychischen Erkrankungen leiden. Mithilfe von Facefiltern werden die beschriebenen Gefühle abstrakt dargestellt. Sie visualisieren, wie sich die interviewten Personen fühlen, wenn sie im Alltag intensiv mit ihrer Krankheit konfrontiert sind.",
-            "paragraph2": "(Es geht um individuelle Erfahrungen, nicht um die Krankheiten im Allgemeinen)"
-          }
-        },
-        "dovile": {
-          "info": "4-Kanal-Videoinstallation, 4:15 min, Loop, 2019",
-          "description": "Angst ist einer der wichtigsten Emotionen und steht in direktem Zusammenhang mit dem menschlichen Bedürfnis nach Sicherheit. Die Videoinstallation versucht, den Zustand der Angst in unterschiedlichen Stadien greifbar zu machen. Sie bezieht sich dabei auf natürliche Elemente, wie z.B. Wind, Regen und Nebel. Die emotionalen Zustände schwanken zwischen dem Gefühl von Nähe und Distanz und ähneln dabei äußeren Kräften oder Naturgewalten. Die Zahl Vier bezieht sich auf natürliche Zyklen, wie die vier Jahreszeiten oder Mondphasen. Das Projekt greift diese Zirkularität von Naturereignissen auf, die kein bestimmtes lineares Ziel haben."
-        },
-        "ale": {
-          "link": "Zum Werk",
-          "description": {
-            "paragraph1": "Das Projekt ist inspiriert von Francesca Rigottis Buch ",
-            "paragraph2": "„De senectute“",
-            "paragraph3": ", das nicht nur das Alter von Frauen behandelt, sondern auch das, was Frauen ab einer bestimmten Lebensphase von Männern unterscheidet: den Verlust der Fruchtbarkeit.",
-            "paragraph4": "Der Film beginnt mit Worten einer jungen Frau, welche die biologischen Veränderungen ihres Körpers erlebt. Die Frau im grünen Kleid ist eingeschlossen in einem abstrakten Gefängnis aus einer Dauerschleife von Gesten und Bildern. Allein in ihrem Drama ist sie das Einzige, was sich unwiderruflich ohne Ende wiederholt."
-          }
-        },
-        "valentina": {
-          "link": "Zum Werk",
-          "description": {
-            "paragraph1": "Beim Warten empfinden wir die Zeit oft als langsam und zähflüssig. Eine Minute fühlt sich an wie ein Jahr. Diese von Hand gezeichnete Animation zeigt ein Mädchen, welcher dieses Phänomen widerfährt. Wenn wir uns im Prozess des Wartens befinden, wird der Raum, in dem wir uns aufhalten, zum Mikrokosmos.",
-            "paragraph2": "Unsere Beobachtung und Aufmerksamkeit funktionieren wie ein Vergrößerungsglas und jedes sinnliche Detail bekommt eine höhere Bedeutung. In diesem Zustand erfahren wir die Welt wie eine fremde Realität und gleiten in den Tagtraum."
-          }
-        },
-        "hilka": {
-          "info": "Installation",
-          "description": "Testing collectivity ist ein andauerndes Experiment. Der*die Betrachter*in ist zur Teilnahme eingeladen. Die Verbindungen sind partizipativ und führen zu Kooperation. Ihre Nutzung erfordert Kommunikation. Sie schaffen die Struktur zur Erschließung neuer Spielräume. Der Mensch schafft die kollektive Erfahrung als Teil des Objekts. Der einzige produktive Mehrwert besteht in einer emotionalen Erfahrung. Die kollektive Handlung erfolgt um ihrer selbst Willen. Sie ist nicht effizient."
-        },
-        "asisi": {
-          "info": "Installation",
-          "description": {
-            "paragraph1": "Die meisten Träume finden im REM-Schlaf statt. In dieser unruhigen Schlafphase verarbeiten und lösen wir Probleme aus dem Wachleben, werden mit Ängsten und Mängeln konfrontiert, bereiten uns auf die Zukunft vor, vergessen und erinnern.",
-            "paragraph2": "Diese Installation versucht, den stark anthropomorph besetzten Prozess des Träumens in die Welt der Maschinen und Automaten zu holen. Aus dem visuellen Gedächtnis des Geräts entstehen Stück für Stück neue Bilder, die mehr sind als nur die bloße Erinnerung und Einblick in ein spekulatives Unterbewusstsein geben."
-          }
-        },
-        "montau": {
-          "info": "Audiovisuelle Installation",
-          "link": "Zum Werk",
-          "description": {
-            "paragraph1": "Die Ausstellung „Dunkle Ecken”, sowie das gesamte Festival LanaLive „Underground“ beschließt eine hochsensible, audiovisuelle Installation von Montau. Der in Berlin lebende Komponist und Produzent kreiert angespannte, hypnotische Grooves und melanchonische Klanglandschaften, die sich zwischen dichten Klangwänden und donnernden Trommelarrangements bewegen.",
-            "paragraph2": "„Dunkle Ecken”",
-            "paragraph3": ", sowie das gesamte Festival LanaLive „Underground“ beschließt eine hochsensible, audiovisuelle Installation von Montau. Der in Berlin lebende Komponist und Produzent kreiert angespannte, hypnotische Grooves und melanchonische Klanglandschaften, die sich zwischen dichten Klangwänden und donnernden Trommelarrangements bewegen.",
-            "paragraph4": "Die Uraufführung fand auf der eigens kreierten, knapp 11 Minuten dauernden Installation findet am 31. Mai um 20:00 Uhr über den Livestream von Salto.bz und den Facebookkanal von LanaLive statt. Mit meditativen Klängen und chromatischen Farbbewegungen lädt er zum Relaxen ein, beschwört die psychische Gesundheit und schließt die Tore zur Unterwelt."
-          }
-        }
-      },
-      "footer": {
-        "imprint": "Impressum"
-      }
-    }
-  },
-  "it": {
-    "translation": {
-      "menu": {
-        "home": "Home",
-        "exhibition": "Mostra",
-        "audio": "Messaggi",
-        "about": "Chi siamo",
-        "artists": "artisti*e"
-      },
-      "home": {
-        "text": {
-          "paragraph1": "La pandemia ha tenuto il mondo sospeso per settimane, stravolgendo la nostra vita quotidiana. Abbiamo dovuto fare a meno di ciò che solitamente ci offre stabilità e sicurezza, mancandoci per un tempo indeterminato strutture, certezze e contatti con persone familiari.",
-          "paragraph2": "Shutdown, restrizioni sui contatti e coprifuoco costringono milioni di persone a trascorrere molte ore a casa, in attesa. Le misure adottate possono diventare un peso considerevole per le persone con malattie mentali, aumentandone le sofferenze. Di questo disagio è particolarmente difficile parlare, poiché viviamo in una società in cui è ancora più facile parlare di dolore fisico che di dolore emotivo. La stigmatizzazione e gli stereotipi hanno reso infatti la salute mentale un argomento tabù per molti.",
-          "paragraph3": "In questo solco si colloca la mostra Angoli scuri, che mira a rompere questo colpevole silenzio e a creare uno spazio di discussione sul dolore mentale, che, pur non visibile, si manifesta in tutta la sua gravità.",
-          "paragraph4": "22 giovani artisti hanno affrontato l'argomento da prospettive molto diverse. Durante la mostra sarà anche offerta la possibilità di ascoltare la voce di varie persone con problemi psicologici, che condivideranno le loro storie ed esperienze personali."
-        },
-        "link": "Archivio della mostra"
-      },
-      "about": {
-        "text": {
-          "part1": "La mostra, organizzata da ",
-          "part2": " (concetto e curatela) e ",
-          "part3": " (coordinamento del progetto e assistenza alla curatrice), riunisce 17 opere d'arte di giovani artisti e le espone online durante il festival culturale ",
-          "part4": " Undergorund. Angoli scuri punta i riflettori sul tema della salute mentale e lo esamina da diverse prospettive, al fine di dissolvere la visione convenzionale e gli stigmi associati. La mostra mira a dare maggiore visibilità al tema, al fine di promuovere un discorso sull'integrità e la trasparenza della salute mentale nella nostra società."
-        },
-        "subtitle": "Mostra-vetrina LanaLive nel 2020. Foto: Flyle",
-        "text2": {
-          "part1": "Un grande ringraziamento a coloro che hanno sostenuto questo progetto: ",
-          "part2": ", ",
-          "part3": ", Judith Rubatscher, Ruth Kronbichler e Julia Moser."
-        }
-      },
-      "imprint": {
-        "text": {
-          "paragraph1": "POLITICHE",
-          "paragraph2": "Crediti fotografici",
-          "paragraph3": "Il copyright delle immagini è da attribuire agli artisti interessati, se non diversamente indicato. In alcuni casi, i titolari dei diritti non sono stati identificati.",
-          "paragraph4": "Tutti i testi, le foto e le informazioni sono protette da copyright.",
-          "paragraph5": "Concetto e realizzazione",
-          "paragraph6": "Traduzione",
-          "paragraph7": "Mauro Sperandio",
-          "paragraph8": "Testi",
-          "paragraph9": "Avviso di responsabilità",
-          "paragraph10": "Sviluppiamo continuamente il contenuto di questo sito Web e ci impegniamo a fornire informazioni corrette e aggiornate. Secondo il Telemediengesetz (TMG) §7 (1), in qualità di fornitore di servizi, siamo responsabili delle informazioni da noi fornite secondo le leggi in vigore. Sfortunatamente, non ci possiamo assumere alcuna responsabilità per la correttezza di tutti i contenuti di questo sito Web, in particolare per quelli forniti da terze parti. Nonostante un attento controllo del contenuto, non ci assumiamo alcuna responsabilità per il contenuto di collegamenti esterni. Gli operatori delle pagine collegate sono gli unici responsabili dei loro contenuti.",
-          "paragraph11": "Dichiarazione di non responsabilità per l'uso del contenuto di questo sito Web.",
-          "paragraph12": "I diritti d'autore relativi all'uso di immagini di opere d'arte appartengono sempre ai legittimi titolari. Questo portale Web può contenere contenuti di terze parti o può essere collegato a contenuti di terze parti rilevanti ai sensi del diritto penale. Vi preghiamo di chiederci l’autorizzazione prima di distribuire, riprodurre o sfruttare il contenuto di questo sito Web, come anche di ripubblicarlo su altri siti Web.",
-          "paragraph13": "",
-          "paragraph14": "Grazie per il 3D Folded DOM Layout Plugin di Daniel Velasquez pubblicato su Cropdrops.",
-          "paragraph15": "(Github Repository link)"
-        }
-      },
-      "exhibitionData": {
-        "fiona": {
-          "info": {
-            "part1": "Installazione, 2019",
-            "part2": "Foto: Manuel Ahnemüller"
-          },
-          "description": {
-            "paragraph1": "In che modo sperimentiamo la stabilità del suolo? Quali parametri definiscono l'instabilità del nostro ambiente? Un fondamento stabile è un'esigenza fondamentale nella vita di tutti i giorni",
-            "paragraph2": "L'installazione si basa sull'instabilità dei materiali impiegati. Scegliendo materiali con diversa stabilità strutturale e diverse condizioni, ci si trova di fronte a una struttura transitabile. Questi materiali ci circondano nella vita di tutti i giorni, ma di solito rimangono invisibili come parte di strutture più grandi. Il passaggio attraverso l'installazione dà vita un'esperienza tattile."
-          }
-        },
-        "winona": {
-          "info": "Installazione",
-          "description": {
-            "paragraph1": "La serie di sedute un / stable si compone di due gruppi ed è stata realizzata con l’obiettivo di cambiare l'esperienza del sedersi. Cosa succede se la seduta perde le caratteristiche a cui siamo abituati? Può un cambiamento del mobilio creare un diverso livello di comunicazione?"
-          }
-        },
-        "david": {},
-        "raphael": {
-          "link": "Vedere di più",
-          "description": {
-            "paragraph1": "L'atto si lega all'intelligenza umana della nostra società, ed è diviso in tre parti: 'mordere' - 'odorare' - 'guardare'. Mangiarsi le unghie calma il mio stato distopico.",
-            "paragraph2": "Mordo più velocemente e intensamente, strappo solo piccoli pezzi di unghia e li mordo con i miei incisivi. Posso pensare e mordere.",
-            "paragraph3": "L'odore delle unghie mi fa capire cosa sto facendo. Una parte di me pensa ad annusarmi. L'odore mi dà un'effimera sensazione di benessere, quindi il mio corpo prova il desiderio di continuare a mordere. Lo stress si materializza e scema.",
-            "paragraph4": "Guardare determina dove mi trovo veramente. Scopro quali unghie devo ancora a mordere. Il momento di guardare corrisponde ad un nuovo inizio dell'atto in tre parti."
-          }
-        },
-        "lukas": {
-          "info": "Installazione",
-          "link": "Vedere di più",
-          "description": {
-            "paragraph1": "Se partecipi alla vita in una società, ti integri automaticamente nelle sue strutture, consciamente o inconsciamente, volontariamente o forzatamente. Queste possono essere aperte oppure di meno facile accesso. Possono sostenere o aiutare i singoli, ma possono anche frenare, ostacolare o limitare le loro possibilità, abilità e diritti.",
-            "paragraph2": "La consapevolezza della presenza di queste strutture insorge solitamente quando esse esercitano un'influenza negativa sul fare, l'agire e il pensare. Quando ci si trova impotenti a riconoscere il fatto di essere finiti in strutture che non corrispondono all’immagine che abbiamo di noi stessi, il dubbio ci assale."
-          }
-        },
-        "manfred": {
-          "info": {
-            "part1": "Installazione, ",
-            "part2": "2017 Foto: Franziska Ziegler"
-          },
-          "link": "Vedere di più",
-          "description": "Il progetto 'Das letzte Hemd hat keine Taschen' offre un'alternativa contemporanea ai tradizionali riti funebri. Con la lenta vestizione del cadavere, si vuole creare un ultimo momento intimo tra il defunto e i suoi cari, permettendo così un dignitoso addio."
-        },
-        "isa": {
-          "info": "Fotografia",
-          "description": {
-            "paragraph1": "Nella serie THE BLUES di Isabelle Östlund lo stato d'animo diventa realtà. La storia della depressione, già nota come malinconia e male oscuro, risale ai tempi dell'antico medico greco Ippocrate. Egli descrisse la malattia come una grave infermità che includeva sintomi mentali e fisici come 'irrequietezza e prolungata paura'. La definizione dell'OMS (ICD-10) del disturbo depressivo è un concetto simile, ma molto più ampio.",
-            "paragraph2": "Lo psichiatra tedesco Emil Kraeplin è stato uno dei primi a usare il termine depressione per riferirsi ai diversi tipi di 'malinconia'. Oggi questo termine descrive molti diversi stati psicologici: dalla depressione emotiva ai disturbi dell'umore patologici.",
-            "paragraph3": "THE BLUES - i sentimenti di vuoto, disperazione e tristezza - sono ritratti composti, che sono stati ispirati dai maestri dell'arte e della storia della depressione.",
-            "paragraph4": "Fonti:",
-            "paragraph5": "Johannisson, Karin (2013): Melankoliska rum. Om ångest, leda och sårbarhet i förfluten tid och nutid. Stockholm (Albert Bonniers förlag).",
-            "paragraph6": "Davison, K (2006): Historical aspects of mood disorders. Psychiatry. 5 (4): 115-18",
-            "paaragraph7": "Organization, World Health / Staff, WHO / WHO, WHO (1992): The ICD-10 Classification of Mental and Behavioural Disorders. Clinical Descriptions and Diagnostic Guidelines. Geneva, Switzerland (World Health Organization)."
-          }
-        },
-        "elisa": {
-          "link": "Vedere di più",
-          "description": "Black Hole documenta ciò che succede all'interno di un aspirapolvere. Dopo una primo divertente impatto causato dal sovvertimento delle proporzioni e dall'assurdità di ciò che avviene, presto subentra la sensazione di non aver via d'uscita. Il crescente frastuono e la vista di questo buco nero, che assorbe senza pietà la materia e aumenta di massa, instillano un senso d'impotenza. Nel venir risucchiati ci trasformiamo in un Gregor Samsa rimpicciolito, diventando noi stessi un insetto risucchiato impietosamente."
-        },
-        "nia": {
-          "info": "Messaggi audio",
-          "description": {
-            "paragraph1": "Nel tentativo di parafrasare le mie lotte con le parole, a volte, quasi per caso, scrivo poesie. La verità è che non sono io a scrivere le poesie, - le poesie si scrivono da sole. Almeno è così che ci si sente.",
-            "paragraph2": "Nia Lejander ha registrato alcune delle sue poesie dal suo diario, che sono state scritte durante i momenti più bassi. In parte ironicamente divertente o profondamente triste, guarda la vita."
-          }
-        },
-        "carole": {
-          "info": "Collage di foto",
-          "description": "Avere un disturbo borderline di personalità significa vivere costantemente a cavallo tra la versione migliore e peggiore di sé stessi, attraversando spesso i confini dell'emozione e della ragione. L'artista affronta il suo passato, visualizza ed elabora la propria vita tra un estremo e l’altro. Da bambina, non riusciva ad immaginare quale sarebbe stata la sua vita a causa di questa difficile condizione."
-        },
-        "merani": {
-          "info": "Sculture",
-          "link": "Vedere di più",
-          "description": {
-            "paragraph1": "Un autoanticorpo (autoantibody) è un anticorpo prodotto dal sistema immunitario di un organismo allo scopo di attaccare il proprio tessuto sano.",
-            "paragraph2": "autoantibody.1 e autoantibody.2 fanno parte di una serie non ancora conclusa di sgabelli autodistruttivi."
-          }
-        },
-        "indra": {
-          "link": "Vedere di più",
-          "description": {
-            "paragraph1": "L'opera Sick (of) Me introduce lo spettatore nel mondo emotivo degli individui che soffrono di malattie mentali. Con l'aiuto di filtri fotografici per il viso, i sentimenti descritti sono rappresentati in modo astratto e viene mostrato come si sentono gli intervistati durante l’aspro confronto con la loro malattia nella vita di tutti i giorni.",
-            "paragraph2": "(Si tratta di esperienze individuali e non della malattia in generale)"
-          }
-        },
-        "dovile": {
-          "info": "Installazione video a 4 canali, 4:15 min, loop, 2019",
-          "description": "La paura è una delle emozioni più importanti ed è direttamente correlata al bisogno umano di sicurezza. L'installazione video cerca di rendere percepibile le diverse fasi della paura, riferendosi ad elementi naturali, come ad esempio vento, pioggia e nebbia. Gli stati emotivi oscillano tra le sensazione di vicinanza e distanza e sono paragonabili a delle forze esterne e alle forze della natura. Il numero quattro si riferisce ai cicli naturali, alle quattro stagioni o alle quattro fasi lunari. Il progetto riprende questa circolarità di eventi naturali che non hanno obiettivi lineari specifici."
-        },
-        "ale": {
-          "link": "Vedere di più",
-          "description": {
-            "paragraph1": "Il progetto è ispirato al libro di Francesca Rigotti ",
-            "paragraph2": "'De senectute'",
-            "paragraph3": ", che non tratta soltanto di come le donne vivono la vecchiaia, ma anche di ciò che distingue le donne dagli uomini in questa fase della vita: la perdita della fertilità.",
-            "paragraph4": "Il film inizia con le parole di una giovane donna che sta vivendo i cambiamenti biologici nel suo corpo. La donna con il vestito verde è intrappolata in una prigione astratta da un ciclo di gesti e immagini, unica cosa che si ripete senza fine."
-          }
-        },
-        "valentina": {
-          "link": "Vedere di più",
-          "description": {
-            "paragraph1": "Quando ci troviamo a dover attendere, il tempo ci pare spesso lento e interminabile. Un minuto sembra un anno. Questa animazione disegnata a mano mostra una ragazza che sta vivendo questo fenomeno. Quando siamo in attesa, lo spazio in cui ci troviamo diventando un microcosmo.",
-            "paragraph2": "Il nostro osservare e la nostra attenzione funzionano come una lente d'ingrandimento e ogni dettaglio captato dai sensi assume un significato superiore. In questo stato sperimentiamo il mondo come una strana realtà e scivoliamo in un sogno ad occhi aperti."
-          }
-        },
-        "hilka": {
-          "info": "Installazione",
-          "description": "Testing collectivity è un esperimento in fieri e tu sei invitato a partecipare. Le connessioni sono azioni partecipative e portano alla cooperazione. Il loro uso richiede comunicazione. Esse creano la struttura  di nuovi spazi d’azione. L'uomo crea l'esperienza collettiva come parte dell'oggetto. L'unico valore aggiunto risiede in un'esperienza emotiva. L'azione collettiva è fatta per se stessa. Non è efficiente."
-        },
-        "asisi": {
-          "info": "Installazione",
-          "description": {
-            "paragraph1": "La maggior parte dei sogni avviene durante la fase REM. In questa fase di sonno inquieto, elaboriamo e risolviamo problemi che ci interessano durante la veglia, ci confrontiamo con paure e mancanze, ci prepariamo per il futuro, dimentichiamo e ricordiamo.",
-            "paragraph2": "Questa installazione cerca di portare il processo fortemente umano del sogno nel mondo delle macchine e degli automi. A poco a poco, la memoria visiva del dispositivo crea nuove immagini che sono più di un semplice ricordo e forniscono informazioni su un subconscio speculativo."
-          }
-        },
-        "montau": {
-          "info": "Installazione audiovisuale",
-          "link": "Vedere di più",
-          "description": {
-            "paragraph1": "La mostra ",
-            "paragraph2": "“Angoli scuri”",
-            "paragraph3": " e l'intero festival LanaLive Underground vedranno per la loro conclusione un'installazione audiovisiva ad alto contenuto emozionale realizzata da Montau. Il compositore e produttore, residente a Berlino, crea ritmi tesi, ipnotici e paesaggi malinconici che si muovono tra densi e avvolgenti cortine sonore e deflagranti arrangiamenti ritmici.",
-            "paragraph4": "La prima assoluta di questa installazione, creata appositamente per il LanaLive, sarà trasmessa in un live streaming nel sito di Salto.bz e nel canale Facebook di LanaLive. Suoni meditativi e suadenti giochi cromatici inviteranno gli spettatori a rilassarsi, infondendo benessere mentale e chiudendo le porte del mondo sotterraneo, dell'Underground."
-          }
-        }
-      },
-      "footer": {
-        "imprint": "Politiche"
-      }
-    }
-  }
+	"en": {
+		"translation": {
+			"menu": {
+				"home": "Home",
+				"exhibition": "Exhibition",
+				"audio": "",
+				"about": "About",
+				"artists": "Artists"
+			},
+			"home": {
+				"text": {
+					"paragraph1": "For weeks, the Corona pandemic has kept the world in suspense, and has fundamentally altered everyday life. Shutdowns, contact restrictions, and curfews are forcing millions of people to spend many hours at home, waiting. Isolation also means being exposed to one's own feelings without protection or distraction.",
+					"paragraph2": "Especially for people who now have to spend a lot of time alone, their own four walls quickly lose their protective function, and reinforce the silence and emptiness of their own surroundings. Negative feelings like tension, fear and loneliness quickly spread. For people with mental illness, these measures can be a considerable burden and can intensify any already existing pain.",
+					"paragraph3": "It is particularly difficult to talk about this. We live in a society in which it is still easier to talk about physical pain than about mental pain. Stigmatisation and stereotyping have led to mental health being a taboo subject for many people.",
+					"paragraph4": "This is the intention of the exhibition 'Dark Corners': to finally break the silence and create the space for a dialog about mental health, which is not visible but weighs all the more heavily. 22 young artists have approached the subject from very different perspectives. The exhibition also features voices that share their own personal stories and experiences relating to mental health."
+				},
+				"link": "Exhibition archive"
+			},
+			"about": {
+				"text": {
+					"part1": "Organised by ",
+					"part2": " and ",
+					"part3": ", the exhibition brings together 17 works of art by young artists and exhibits them online during the",
+					"part4": "'Underground' cultural festival. 'Dark Corners' sheds some light on the topic of mental health, considering it from a variety of perspectives in order to dissolve traditional attitudes, and associated stigmas. The exhibition aims to increase the visibility of the subject in order to promote a discourse on the integrity and transparency of mental health in our society."
+				},
+				"subtitle": "LanaLive showcase exhibition in 2020, Photo: Flyle",
+				"text2": {
+					"part1": "A big thanks to those who supported this project: ",
+					"part2": ", ",
+					"part3": ", Judith Rubatscher, Ruth Kronbichler and Julia Moser."
+				}
+			},
+			"imprint": {
+				"text": {
+					"paragraph1": "IMRINT",
+					"paragraph2": "Photo credits",
+					"paragraph3": "The copyright of the illustrations is owned by the artists* themselves, unless otherwise stated. In some cases the copyright holders could not be identified.",
+					"paragraph4": "All texts, photos and information are protected by copyright.",
+					"paragraph5": "Concept & Design",
+					"paragraph6": "Proofreading",
+					"paragraph7": "Sergei Saraiva",
+					"paragraph8": "Text",
+					"paragraph9": "Limitation of liability for external links",
+					"paragraph10": "Our website contains links to the websites of third parties (“external links”). As the content of these websites is not under our control, we cannot assume any liability for such external content. In all cases, the provider of information of the linked websites is liable for the content and accuracy of the information provided. At the point in time when the links were placed, no infringements of the law were recognisable to us. As soon as an infringement of the law becomes known to us, we will immediately remove the link in question.",
+					"paragraph11": "Disclaimer for the use of the content of this website.",
+					"paragraph12": "The copyrights regarding the use of images of works of art always lie with the respective rights holders. This web portal can contain third-party content or can be linked to third-party content that is relevant under criminal law. Please ask us before you distribute, reproduce or exploit the content of this website, such as republishing it on other websites. Limitation of liability for external linksOur website contains links to the websites of third parties (“external links”). As the content of these websites is not under our control, we cannot assume any liability for such external content. In all cases, the provider of information of the linked websites is liable for the content and accuracy of the information provided. At the point in time when the links were placed, no infringements of the law were recognisable to us. As soon as an infringement of the law becomes known to us, we will immediately remove the link in question.",
+					"paragraph13": "",
+					"paragraph14": "Special thanks to the 3D Folded DOM Layout Plugin by Daniel Velasquez published on Cropdrops.",
+					"paragraph15": "To the GitHub repository."
+				}
+			},
+			"exhibitionData": {
+				"fiona": {
+					"info": {
+						"part1": "Installation, 2019 ",
+						"part2": "Photo: Manuel Ahnemüller"
+					},
+					"description": {
+						"paragraph1": "How do we experience the stability of the ground? Which parameters define the instability of our environment? Stable ground keeps us from falling.",
+						"paragraph2": "The installation is based on material displacement; when choosing materials with different structural stability and different material conditions, you are confronted with a walkable structure. These materials surround us in everyday life, but as part of larger structures they usually remain invisible. Walking through the installation creates a tactile experience."
+					}
+				},
+				"winona": {
+					"info": "Installation",
+					"description": {
+						"paragraph1": "The un/stable range of seating furniture includes two groups that contribute to a modification of the sitting sensation. What happens if the seating no longer conforms to the original habits? Is it conceivable to create a different level of communication by changing the furniture?"
+					}
+				},
+				"david": {},
+				"raphael": {
+					"link": "See work",
+					"description": {
+						"paragraph1": "'The three-part act connects with the humanitarian intelligence of our society, it is divided into the 'bite' - 'smell' - 'look'. The biting of fingernails calms me in my dystopian state.",
+						"paragraph2": "I bite faster and harder, only small pieces of nail are torn and bitten off with my incisors. I can think and bite.",
+						"paragraph3": "The smell of the fingernail makes me understand what I am doing. A part of me thinks I smell myself. The smell gives me a temporary feeling of well-being, afterwards my body has the will to bite further. The stress is materialised and reduced.",
+						"paragraph4": "Looking determines where I really am. I determine which nails are still to be bitten. The moment of looking transforms into a new beginning of the three-part act."
+					}
+				},
+				"lukas": {
+					"info": "Installation",
+					"link": "See work",
+					"description": {
+						"paragraph1": "When one takes part in life in a society, one automatically; consciously or unconsciously; voluntarily or compulsorily; integrates into structures. These structures can be either open, or narrow. They can give the individual stability and support, but also inhibit, restrict, or limit their potential, abilities or even their rights.",
+						"paragraph2": "The awareness of their presence usually only sets in when there is a negative influence on doing, acting and thinking. If one finds oneself in a state of powerless recognition that one has settled into structures that do not correspond to one's own self-image, self-doubt sets in. Growing self-doubts can lead to an unstable existence.",
+						"paragraph3": "Explicit structures in everyday life should help people with mental illnesses in particular to find their way back to a regulated state of being. The predefined structures of the objects shown here force you to orient yourself by them. A comfortable sitting position is only possible if one adopts and conforms to the intended posture.",
+						"paragraph4": "He who submits, fills, fills the joint. If one fills, one holds. One holds together, supports. Takes the empty space. Take the space. Space takes movement. Takes freedom. Gives support - one receives support. One experiences. Is relieved. Gives way."
+					}
+				},
+				"manfred": {
+					"info": {
+						"part1": "Installation, ",
+						"part2": "2017 Photo: Franziska Ziegler"
+					},
+					"link": "See work",
+					"description": "The project the last shirt has no pockets offers a contemporary alternative to traditional funeral rituals. By slowly dressing the corpse, it wants to establish a last intimate moment between him and the bereaved, thus offering a dignified farewell."
+				},
+				"isa": {
+					"info": "Photography",
+					"description": {
+						"paragraph1": "In Isabelle Östlund's series THE BLUES, the state of mind becomes reality. The depression, formerly known as 'melancholy', 'blackness of the bile', goes back in history to the ancient Greek doctor Hippocrates. He described the disease as a acute disorder that causes both mental and physical symptoms in 'anxiety and despair when they last a long time'. The concept of a depressive disorder according to the WHO (ICD-10), is a similar but much broader concept.",
+						"paragraph2": "Emil Kraeplin, a German psychiatrist, was one of the first to use the term 'depression', when referring to different types of 'melancholy'. Today, the term depression refers to many different mental states: from mental dejection to pathological mood disorders.",
+						"paragraph3": "THE BLUES - the feelings of emptiness, hopelessness and sadness - are composed portraits. They were inspired by the masters of the art and history of depression.",
+						"paragraph4": "Source:",
+						"paragraph5": "Johannisson, Karin (2013): Melankoliska rum. Om ångest, leda och sårbarhet i förfluten tid och nutid. Stockholm (Albert Bonniers förlag).",
+						"paragraph6": "Davison, K (2006): Historical aspects of mood disorders. Psychiatry. 5 (4): 115-18",
+						"paragraph7": "Organization, World Health / Staff, WHO / WHO, WHO (1992): The ICD-10 Classification of Mental and Behavioural Disorders. Clinical Descriptions and Diagnostic Guidelines. Geneva, Switzerland (World Health Organization)."
+					}
+				},
+				"elisa": {
+					"link": "See work",
+					"description": "Black Hole documents the inner-workings of a vacuum cleaner. The amusing first impression gained by the shift in scale and the absurdity of the experience soon gives way to a feeling of hopelessness. One is powerless at the mercy of the booming sound and the view into the abyss of the black hole, which mercilessly absorbs matter and increases in mass. Caught in the undertow, you transform into a shrunken Gregor Samsa, and become a carelessly sucked-in insect yourself."
+				},
+				"nia": {
+					"info": "Audio",
+					"description": {
+						"paragraph1": "'In an attempt to paraphrase my struggles with words, I sometimes, almost by accident, write poems. The truth is that it is not I who write the poems, - the poems write themselves. At least that's how it feels.'",
+						"paragraph2": "Nia Lejander recorded some of her poems from the diary, which were written in low points. Partly ironically funny or deeply sad look at life."
+					}
+				},
+				"carole": {
+					"info": "Foto Collage",
+					"description": "Having borderline personality disorder means constantly living between the best and worst version of oneself, often crossing the boundaries of emotion and reason. The artist deals with her past, visualises and processes life between such extremes. As a child, she could never imagine the path her life would take on account of this unpredictable condition."
+				},
+				"merani": {
+					"info": "Sculpture",
+					"link": "See work",
+					"description": {
+						"paragraph1": "autoantibody.1",
+						"paragraph2": "shooting yourself in the foot hurting your own interests",
+						"paragraph3": "autoantibody.2",
+						"paragraph4": "(sich) ein Bein ausreißen",
+						"paragraph5": "putting a lot of effort into something literal; translation: pulling out a leg",
+						"paragraph6": "An autoantibody is a type of antibody that is produced by an organism's immune system to attack its own healthy tissue.",
+						"paragraph7": "Autoantibody.1 and autoantibody.2 are part of an ongoing series of self-destructive stools."
+					}
+				},
+				"indra": {
+					"link": "See work",
+					"description": {
+						"paragraph1": "The piece Sick (of) Me, introduces viewers to the emotional world of individuals suffering from mental illness. With the help of face filters the described feelings are rendered abstractly. They visualise how the interviewed persons feel when they are intensively confronted with their illness in everyday life.",
+						"paragraph2": "(addressing experiences of the individual, and not mental illness in general)"
+					}
+				},
+				"dovile": {
+					"info": "4-channel video installation, 4:15 min, loop, 2019",
+					"description": "Fear is one of the most important emotions, and is directly related to the inherent human need for security. The video installation tries to make the state of fear tangible in its various stages. It refers to natural elements such as wind, rain and fog. The emotional states fluctuate between the feeling of closeness and distance, resembling external forces, and the forces of nature. The number four refers to natural cycles, the four seasons or four phases of the moon. The project takes up this circularity of natural events, which have no defined linear goal."
+				},
+				"ale": {
+					"link": "See work",
+					"description": {
+						"paragraph1": "The project is inspired by Francesca Rigotti's book ",
+						"paragraph2": "De senectute",
+						"paragraph3": ", which deals not only with the age of women, but also with what distinguishes women from men in this phase of life: the loss of fertility.",
+						"paragraph4": "The film begins with words from a young woman who experiences the biological changes in her body. The woman in the green dress is locked up in an abstract prison made of a loop of gesture and image. In her drama alone, she is the only thing that is irrevocably repeated without end."
+					}
+				},
+				"valentina": {
+					"link": "See work",
+					"description": {
+						"paragraph1": "While waiting, we often experience time as extremely slow, or even viscous. One minute can feel like a year. This hand-drawn animation shows a girl experiencing this phenomenon. When we are in the process of waiting, the space we are in becomes a microcosm.",
+						"paragraph2": "Our observation and attention work like a magnifying glass, and every sensual detail takes on a higher significance. In this state we experience the world as a foreign reality and slide into a state of daydream."
+					}
+				},
+				"hilka": {
+					"info": "Installation",
+					"description": "Testing collectivity is an ongoing experiment. You are invited to participate. The connections are participatory, and lead to cooperation. Their use requires communication. They create the structure to open up new space for exploration. The human creates the collective experience as part of the object. The only productive added-value is an emotional experience. The collective action is for its own sake. It is not efficient."
+				},
+				"asisi": {
+					"info": "Installation",
+					"description": {
+						"paragraph1": "Most dreams take place during REM (Rapid Eye Movement) sleep. In this restless phase of sleep, we process and manage problems from our waking life, we are confronted with our fears and imperfections, we prepare for the future, we forget and we remember.",
+						"paragraph2": "This installation attempts to bring the strongly anthropo-morphic process of dreaming into the world of machines and automata. Piece by piece, new images emerge from the visual memory of the machine, which are more than simply memory, and provide insight into a speculative subconscious."
+					}
+				},
+				"montau": {
+					"info": "Audiovisual installation",
+					"link": "See work",
+					"description": {
+						"paragraph1": "The exhibition ",
+						"paragraph2": "Dark Corners ",
+						"paragraph3": " and the entire festival LanaLive “Underground” conclude a highly sensitive, audiovisual installation by Montau. The composer and producer, who lives in Berlin, creates tense, hypnotic grooves and melanchonic soundscapes that move between thick walls of sound and thundering drum arrangements.",
+						"paragraph4": "The premieretook place on May 31st at 8:00 p.m. With meditative sounds and chromatic color movements, he invites you to relax, conjures up the mental health and closes the gates to the underworld."
+					}
+				}
+			},
+			"footer": {
+				"imprint": "Imprint"
+			}
+		}
+	},
+	"de": {
+		"translation": {
+			"menu": {
+				"home": "Home",
+				"exhibition": "Ausstellung",
+				"audio": "Beiträge",
+				"about": "About",
+				"artists": "Künstler*innen"
+			},
+			"home": {
+				"text": {
+					"paragraph1": "Seit Monaten hält die Corona-Pandemie die Welt im Atem. Ausgangsbeschränkungen und Social Distancing gehörten plötzlich zu unserem Alltag dazu. All jene Dinge, die Sicherheit und Halt geben und den Alltag strukturieren, fallen weg. Viele Menschen sind mit ihren Gefühlen und Ängsten allein in der häuslichen Isolation.",
+					"paragraph2": "Bei Menschen mit psychischen Krankheiten können diese Maßnahmen eine erheblich Belastung darstellen und bereits bestehendes Leid verstärken.  Zudem leben wir in einer Gesellschaft, in der es noch immer leichter ist, über körperliche Schmerzen zu sprechen als über seelische. Stigmatisierung und Stereotypisierung haben dazu geführt, dass die psychische Befindlichkeit für viele als Tabuthema gilt.",
+					"paragraph3": "Die Kunstausstellung Dunkle Ecken will ihren Beitrag zur Entstigmatisierung von psychischen Erkrankungen leisten und einen Raum für den seelischen Schmerz schaffen, der zwar nicht sichtbar ist, aber umso schwerer wiegt.",
+					"paragraph4": "22 junge Kunstschaffenden haben sich dem Thema aus ganz unterschiedlichen Perspektiven genähert. Ebenso sind in der Ausstellung auch Stimmen zu hören, die ihre ganz persönlichen Geschichten und Erfahrungen mit der eigenen Psyche teilen."
+				},
+				"link": "Ausstellungsarchiv"
+			},
+			"about": {
+				"text": {
+					"part1": "Die von ",
+					"part2": " (Konzept und Kuration) und ",
+					"part3": " (Projektkoordination und Assistenz Kuration) ausgerichtete Ausstellung versammelte 17 Kunstwerke von jungen Kunstschaffenden und zeigte sie während des Kulturfestivals ",
+					"part4": " „Underground“ online. „Dunkle Ecken“ beleuchtete das Thema psychische Gesundheit und betrachtete es aus verschiedenen Perspektiven, um die herkömmliche Anschauung und damit verbundenen Stigmen aufzulösen. Die Ausstellung hatte zum Ziel die Sichtbarkeit des Themas zu verstärken, um einen Diskurs zur Integrität und Transparenz psychischer Gesundheit in unserer Gesellschaft zu fördern."
+				},
+				"subtitle": "LanaLive Vitrinenausstellung in 2020. Photo: Flyle",
+				"text2": {
+					"part1": "Ein großes Dankeschön an alle, die dieses Projekt unterstützt haben: ",
+					"part2": ", ",
+					"part3": ", Judith Rubatscher, Ruth Kronbichler und Julia Moser."
+				}
+			},
+			"imprint": {
+				"text": {
+					"paragraph1": "IMPRESSUM",
+					"paragraph2": "Bildnachweise",
+					"paragraph3": "The copyright of the illustrations is owned by the artists* themselves, unless otherwise stated. In some cases the copyright holders could not be identified.",
+					"paragraph4": "Alle Texte, Fotos und Informationen sind urheberrechtlich geschützt.",
+					"paragraph5": "Konzeption & Gestaltung",
+					"paragraph6": "Korrektur",
+					"paragraph7": "Raphia Zouaoui",
+					"paragraph8": "Text",
+					"paragraph9": "Haftungshinweis ",
+					"paragraph10": "Wir entwickeln die Inhalte dieser Webseite ständig weiter und bemühen uns korrekte und aktuelle Informationen bereitzustellen. Laut Telemediengesetz (TMG) §7 (1) sind wir als Diensteanbieter für eigene Informationen, die wir zur Nutzung bereitstellen, nach den allgemeinen Gesetzen verantwortlich. Leider können wir keine Haftung für die Korrektheit aller Inhalte auf dieser Webseite übernehmen, speziell für jene die seitens Dritter bereitgestellt wurden.Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.",
+					"paragraph11": "Haftungsausschlusserklärung für die Verwendung der Inhalte dieser Website.",
+					"paragraph12": "Die Urheberrechte bezüglich der Nutzung von Abbildungen von Kunstwerken liegen immer bei den jeweiligen Rechteinhabern. Dieses Webportal kann Inhalte Dritter enthalten oder mit Inhalten Dritter verlinkt sein, die strafrechtlich relevant sind. Bitte fragen Sie uns bevor Sie die Inhalte dieser Website verbreiten, vervielfältigen oder verwerten wie zum Beispiel auf anderen Websites erneut veröffentlichen.",
+					"paragraph13": "",
+					"paragraph14": "Ein großes Dankeschön für das 3D Folded DOM Layout Plugin von Daniel Velasquez veröffentlicht auf Cropdrops.",
+					"paragraph15": "Zum Link"
+				}
+			},
+			"exhibitionData": {
+				"fiona": {
+					"info": {
+						"part1": "Installation, 2019",
+						"part2": "Foto: Manuel Ahnemüller"
+					},
+					"description": {
+						"paragraph1": "Wie erleben wir die Stabilität des Bodens? Welche Parameter definieren die Instabilität unserer Umgebung? Der stabile Boden ist ein Grundbedürfnis des Alltags. ",
+						"paragraph2": "Die Installation basiert auf Material-verschiebung. Bei der Auswahl von Materialien mit unterschiedlicher struktureller Stabilität und unter-schiedlichen Materialbedingungen werden Sie mit einer begehbaren Struktur konfrontiert. Diese Materialien umgeben uns im Alltag, bleiben aber als Teil größerer Strukturen meist unsichtbar. Das Durchlaufen der Installation schafft eine taktile Erfahrung."
+					}
+				},
+				"winona": {
+					"info": "Installation",
+					"description": {
+						"paragraph1": "Die Reihe der Sitzmöbel „un/stable“ umfasst zwei Gruppen, die zur Veränderung des Sitzgefühls beitragen. Was passiert, wenn die Sitzgelegenheiten nicht mehr den ursprünglichen Gewohnheiten entsprechen? Ist es vorstellbar, durch Veränderung des Mobiliars eine andere Ebene der Kommunikation zu schaffen?"
+					}
+				},
+				"david": {},
+				"raphael": {
+					"link": "Zum Werk",
+					"description": {
+						"paragraph1": "Der dreiteilige Akt verbindet sich mit der humanitären Intelligenz unserer Gesellschaft, er teilt sich ein in das „Beißen“ - „Riechen“ - „Schauen'. Das Beißen von Fingernägeln beruhigt mich in meinem dysthopischen Zustand.",
+						"paragraph2": "Ich beisse schneller und fester, nur kleine Nagelstücke werden gerissen und mit meinen Schneidezähnen abgebissen. Ich kann denken und beissen.",
+						"paragraph3": "Das Riechen des Fingernagels lässt mich verstehen was ich tue. Ein Teil von mir  denkt, ich rieche mich selbst. Der Geruch gibt mir ein kurzzeitiges Gefühl der Wohltuung, anschließend hat mein Körper den Willen weiter zu beissen. Der Stress wird materialisiert und abgebaut.",
+						"paragraph4": "Das Schauen stellt fest, wo ich wirklich bin. Ich stelle fest welche Nägel noch zu beißen sind. Der Moment des Schauens transformiert zum Neuanfang des dreiteiligen Aktes."
+					}
+				},
+				"lukas": {
+					"info": "Installation",
+					"link": "Zum Werk",
+					"description": {
+						"paragraph1": "Nimmt man am Leben in einer Gesellschaft teil, gliedert man sich automatisch, sei es bewusst oder unbewusst, freiwillig oder gezwungenermaßen in Strukturen ein. Diese sind offen oder eng gefasst sein. Sie können dem/der Einzelnen Halt geben und unterstützen, ihn aber auch hemmen, einengen oder in seinen/ihren Möglichkeiten, Fähigkeiten oder auch seinem/ihrem Recht beschneiden. ",
+						"paragraph2": "Das Bewusstsein über deren Präsenz setzt meist erst dann ein, wenn eine negative Beeinflussung des Tuns, Handelns und Denkens stattfindet. Findet man sich in einem Zustand der ohnmächtigen Erkenntnis darüber wieder, dass man sich in Strukturen eingelebt hat, die dem eigenen Selbstbild nicht entsprechen, setzen Selbstzweifel ein. Wachsende Selbstzweifel können zu einem haltlosen Dasein führen.",
+						"paragraph3": "Explizite Strukturen im Alltag sollen besonders auch bei mentalen Erkrankungen dabei helfen zu einem geregelten Zustand zurückzufinden. Die vordefinierten Strukturen der hier gezeigten Objekte zwingen ein jeden sich an ihnen zu orientieren. Eine bequeme Sitzposition ist erst dann möglich, wenn man sich der vorgedachten Haltung annimmt und fügt."
+					}
+				},
+				"manfred": {
+					"info": {
+						"part1": "Installation, 2017",
+						"part2": "Foto: Franziska Ziegler"
+					},
+					"link": "Zum Werk",
+					"description": "Das Projekt „das letzte Hemd hat keine Taschen” schafft eine zeitgemäße Alternative zu herkömmlichen Bestattungsritualen. Es will durch ein langsames Ankleiden des Leichnams einen letzten intimen Moment zwischen ihm und den Hinterbliebenen schaffen und so einen würdevollen Abschied ermöglichen."
+				},
+				"isa": {
+					"info": "Photographie",
+					"description": {
+						"paragraph1": "In Isabelle Östlunds Serie „THE BLUES” wird der Geisteszustand zur Realität. Die Depressionen, die früher als „Melancholie”, „Schwärze der Galle”, bekannt war, gehen in der Geschichte bis zu dem altgriechischen Arzt Hippokrates zurück. Er beschrieb die Krankheit als eine ausgeprägte Erkrankung, die geistige und körperliche Symptome in „Ängste und Verzweiflung, wenn sie lange andauern” einschließt. Die Auffassung von depressiver Störung laut der WHO (ICD-10) ist ein ähnliches, aber weitaus breiteres Konzept. ",
+						"paragraph2": "Emil Kraeplin, ein deutscher Psychiater, war einer der ersten, der den Begriff „Depression” verwendete, um sich auf verschiedene Arten von „Melancholie” zu beziehen. Heute bezeichnet der Begriff Depression viele unterschiedliche psychische Zustände: von seelischer Niedergeschlagenheit bis zur krankhaften Stimmungsstörung.",
+						"paragraph3": "THE BLUES - die Gefühle von Leere, Hoffnungslosigkeit und Traurigkeit - sind komponierte Porträts. Inspiriert wurden sie von den Meistern der Kunst und Geschichte der Depression.",
+						"paragraph4": "Quellen:",
+						"paragraph5": "Johannisson, Karin (2013): Melankoliska rum. Om ångest, leda och sårbarhet i förfluten tid och nutid. Stockholm (Albert Bonniers förlag).",
+						"paragraph6": "Davison, K (2006): Historical aspects of mood disorders. Psychiatry. 5 (4): 115-18",
+						"paragraph7": "Organization, World Health / Staff, WHO / WHO, WHO (1992): The ICD-10 Classification of Mental and Behavioural Disorders. Clinical Descriptions and Diagnostic Guidelines. Geneva, Switzerland (World Health Organization)."
+					}
+				},
+				"elisa": {
+					"link": "Zum Werk",
+					"description": "„Black Hole“ dokumentiert das Innenleben eines Staubsaugers. Der amüsierende erste Eindruck, den man durch die Verschiebung der Größenverhältnisse und der Absurdität des Erlebten erhält, weicht bald dem Gefühl der Ausweglosigkeit. Dem dröhnenden Sound und dem Blick in den Abgrund des Schwarzen Lochs, das erbarmungslos Materie absorbiert und an Masse zunimmt, ist man machtlos ausgeliefert. Gefangen im Sog verwandelt man sich in einen geschrumpften Gregor Samsa und wird selbst zum achtlos eingesaugten Insekt."
+				},
+				"nia": {
+					"info": "Audio",
+					"description": {
+						"paragraph1": "In dem Versuch, meine Kämpfe mit Worten zu umschreiben, schreibe ich manchmal, fast zufällig, Gedichte. Die Wahrheit ist, dass nicht ich es bin, die die Gedichte schreibt, - die Gedichte schreiben sich selbst. Zumindest fühlt es sich so an.",
+						"paragraph2": "Nia Lejander hat einige ihrer Gedichte aus ihrem Tagebuch vertont, die in Tiefpunkten entstanden sind. Teils ironisch witzig oder tieftraurig blickt sie auf das Leben."
+					}
+				},
+				"carole": {
+					"info": "Fotocollage",
+					"description": "Eine Borderline-Persönlichkeitsstörung zu haben bedeutet, dass man ständig zwischen der besten und schlechtesten Version des eigenen Selbst lebt und oft die Grenzen von Emotionen und Vernunft überschreitet. Die Künstlerin beschäftigt sich mit ihrer Vergangenheit, visualisiert und verarbeitet das Leben zwischen den Extremen. Als Kind konnte sie sich ihren zukünftigen Lebensweg, aufgrund dieser schwer einschätzbaren Kondition, nicht ausmalen."
+				},
+				"merani": {
+					"info": "Skulptur",
+					"link": "Zum Werk",
+					"description": {
+						"paragraph1": "Ein Autoantikörper (autoantibody) ist ein Antikörper der vom körpereigenen Immunsystem eines Organismus produziert wird, um offensiv gegen sein eigenes gesundes Gewebe anzugehen.",
+						"paragraph2": "autoantibody.1 und autoantibody.2 sind Teil einer fortlaufenden Reihe von sich selbst zerstörerischen Hockern."
+					}
+				},
+				"indra": {
+					"link": "Zum Werk",
+					"description": {
+						"paragraph1": "Die Arbeit “Sick (of) Me” führt die Betrachtenden in die Gefühlswelt einzelner Individuen ein, die an psychischen Erkrankungen leiden. Mithilfe von Facefiltern werden die beschriebenen Gefühle abstrakt dargestellt. Sie visualisieren, wie sich die interviewten Personen fühlen, wenn sie im Alltag intensiv mit ihrer Krankheit konfrontiert sind.",
+						"paragraph2": "(Es geht um individuelle Erfahrungen, nicht um die Krankheiten im Allgemeinen)"
+					}
+				},
+				"dovile": {
+					"info": "4-Kanal-Videoinstallation, 4:15 min, Loop, 2019",
+					"description": "Angst ist einer der wichtigsten Emotionen und steht in direktem Zusammenhang mit dem menschlichen Bedürfnis nach Sicherheit. Die Videoinstallation versucht, den Zustand der Angst in unterschiedlichen Stadien greifbar zu machen. Sie bezieht sich dabei auf natürliche Elemente, wie z.B. Wind, Regen und Nebel. Die emotionalen Zustände schwanken zwischen dem Gefühl von Nähe und Distanz und ähneln dabei äußeren Kräften oder Naturgewalten. Die Zahl Vier bezieht sich auf natürliche Zyklen, wie die vier Jahreszeiten oder Mondphasen. Das Projekt greift diese Zirkularität von Naturereignissen auf, die kein bestimmtes lineares Ziel haben."
+				},
+				"ale": {
+					"link": "Zum Werk",
+					"description": {
+						"paragraph1": "Das Projekt ist inspiriert von Francesca Rigottis Buch ",
+						"paragraph2": "„De senectute“",
+						"paragraph3": ", das nicht nur das Alter von Frauen behandelt, sondern auch das, was Frauen ab einer bestimmten Lebensphase von Männern unterscheidet: den Verlust der Fruchtbarkeit.",
+						"paragraph4": "Der Film beginnt mit Worten einer jungen Frau, welche die biologischen Veränderungen ihres Körpers erlebt. Die Frau im grünen Kleid ist eingeschlossen in einem abstrakten Gefängnis aus einer Dauerschleife von Gesten und Bildern. Allein in ihrem Drama ist sie das Einzige, was sich unwiderruflich ohne Ende wiederholt."
+					}
+				},
+				"valentina": {
+					"link": "Zum Werk",
+					"description": {
+						"paragraph1": "Beim Warten empfinden wir die Zeit oft als langsam und zähflüssig. Eine Minute fühlt sich an wie ein Jahr. Diese von Hand gezeichnete Animation zeigt ein Mädchen, welcher dieses Phänomen widerfährt. Wenn wir uns im Prozess des Wartens befinden, wird der Raum, in dem wir uns aufhalten, zum Mikrokosmos.",
+						"paragraph2": "Unsere Beobachtung und Aufmerksamkeit funktionieren wie ein Vergrößerungsglas und jedes sinnliche Detail bekommt eine höhere Bedeutung. In diesem Zustand erfahren wir die Welt wie eine fremde Realität und gleiten in den Tagtraum."
+					}
+				},
+				"hilka": {
+					"info": "Installation",
+					"description": "Testing collectivity ist ein andauerndes Experiment. Der*die Betrachter*in ist zur Teilnahme eingeladen. Die Verbindungen sind partizipativ und führen zu Kooperation. Ihre Nutzung erfordert Kommunikation. Sie schaffen die Struktur zur Erschließung neuer Spielräume. Der Mensch schafft die kollektive Erfahrung als Teil des Objekts. Der einzige produktive Mehrwert besteht in einer emotionalen Erfahrung. Die kollektive Handlung erfolgt um ihrer selbst Willen. Sie ist nicht effizient."
+				},
+				"asisi": {
+					"info": "Installation",
+					"description": {
+						"paragraph1": "Die meisten Träume finden im REM-Schlaf statt. In dieser unruhigen Schlafphase verarbeiten und lösen wir Probleme aus dem Wachleben, werden mit Ängsten und Mängeln konfrontiert, bereiten uns auf die Zukunft vor, vergessen und erinnern.",
+						"paragraph2": "Diese Installation versucht, den stark anthropomorph besetzten Prozess des Träumens in die Welt der Maschinen und Automaten zu holen. Aus dem visuellen Gedächtnis des Geräts entstehen Stück für Stück neue Bilder, die mehr sind als nur die bloße Erinnerung und Einblick in ein spekulatives Unterbewusstsein geben."
+					}
+				},
+				"montau": {
+					"info": "Audiovisuelle Installation",
+					"link": "Zum Werk",
+					"description": {
+						"paragraph1": "Die Ausstellung „Dunkle Ecken”, sowie das gesamte Festival LanaLive „Underground“ beschließt eine hochsensible, audiovisuelle Installation von Montau. Der in Berlin lebende Komponist und Produzent kreiert angespannte, hypnotische Grooves und melanchonische Klanglandschaften, die sich zwischen dichten Klangwänden und donnernden Trommelarrangements bewegen.",
+						"paragraph2": "„Dunkle Ecken”",
+						"paragraph3": ", sowie das gesamte Festival LanaLive „Underground“ beschließt eine hochsensible, audiovisuelle Installation von Montau. Der in Berlin lebende Komponist und Produzent kreiert angespannte, hypnotische Grooves und melanchonische Klanglandschaften, die sich zwischen dichten Klangwänden und donnernden Trommelarrangements bewegen.",
+						"paragraph4": "Die Uraufführung fand auf der eigens kreierten, knapp 11 Minuten dauernden Installation findet am 31. Mai um 20:00 Uhr über den Livestream von Salto.bz und den Facebookkanal von LanaLive statt. Mit meditativen Klängen und chromatischen Farbbewegungen lädt er zum Relaxen ein, beschwört die psychische Gesundheit und schließt die Tore zur Unterwelt."
+					}
+				}
+			},
+			"footer": {
+				"imprint": "Impressum"
+			}
+		}
+	},
+	"it": {
+		"translation": {
+			"menu": {
+				"home": "Home",
+				"exhibition": "Mostra",
+				"audio": "Messaggi",
+				"about": "Chi siamo",
+				"artists": "artisti*e"
+			},
+			"home": {
+				"text": {
+					"paragraph1": "La pandemia ha tenuto il mondo sospeso per settimane, stravolgendo la nostra vita quotidiana. Abbiamo dovuto fare a meno di ciò che solitamente ci offre stabilità e sicurezza, mancandoci per un tempo indeterminato strutture, certezze e contatti con persone familiari.",
+					"paragraph2": "Shutdown, restrizioni sui contatti e coprifuoco costringono milioni di persone a trascorrere molte ore a casa, in attesa. Le misure adottate possono diventare un peso considerevole per le persone con malattie mentali, aumentandone le sofferenze. Di questo disagio è particolarmente difficile parlare, poiché viviamo in una società in cui è ancora più facile parlare di dolore fisico che di dolore emotivo. La stigmatizzazione e gli stereotipi hanno reso infatti la salute mentale un argomento tabù per molti.",
+					"paragraph3": "In questo solco si colloca la mostra Angoli scuri, che mira a rompere questo colpevole silenzio e a creare uno spazio di discussione sul dolore mentale, che, pur non visibile, si manifesta in tutta la sua gravità.",
+					"paragraph4": "22 giovani artisti hanno affrontato l'argomento da prospettive molto diverse. Durante la mostra sarà anche offerta la possibilità di ascoltare la voce di varie persone con problemi psicologici, che condivideranno le loro storie ed esperienze personali."
+				},
+				"link": "Archivio della mostra"
+			},
+			"about": {
+				"text": {
+					"part1": "La mostra, organizzata da ",
+					"part2": " (concetto e curatela) e ",
+					"part3": " (coordinamento del progetto e assistenza alla curatrice), riunisce 17 opere d'arte di giovani artisti e le espone online durante il festival culturale ",
+					"part4": " Undergorund. Angoli scuri punta i riflettori sul tema della salute mentale e lo esamina da diverse prospettive, al fine di dissolvere la visione convenzionale e gli stigmi associati. La mostra mira a dare maggiore visibilità al tema, al fine di promuovere un discorso sull'integrità e la trasparenza della salute mentale nella nostra società."
+				},
+				"subtitle": "Mostra-vetrina LanaLive nel 2020. Foto: Flyle",
+				"text2": {
+					"part1": "Un grande ringraziamento a coloro che hanno sostenuto questo progetto: ",
+					"part2": ", ",
+					"part3": ", Judith Rubatscher, Ruth Kronbichler e Julia Moser."
+				}
+			},
+			"imprint": {
+				"text": {
+					"paragraph1": "POLITICHE",
+					"paragraph2": "Crediti fotografici",
+					"paragraph3": "Il copyright delle immagini è da attribuire agli artisti interessati, se non diversamente indicato. In alcuni casi, i titolari dei diritti non sono stati identificati.",
+					"paragraph4": "Tutti i testi, le foto e le informazioni sono protette da copyright.",
+					"paragraph5": "Concetto e realizzazione",
+					"paragraph6": "Traduzione",
+					"paragraph7": "Mauro Sperandio",
+					"paragraph8": "Testi",
+					"paragraph9": "Avviso di responsabilità",
+					"paragraph10": "Sviluppiamo continuamente il contenuto di questo sito Web e ci impegniamo a fornire informazioni corrette e aggiornate. Secondo il Telemediengesetz (TMG) §7 (1), in qualità di fornitore di servizi, siamo responsabili delle informazioni da noi fornite secondo le leggi in vigore. Sfortunatamente, non ci possiamo assumere alcuna responsabilità per la correttezza di tutti i contenuti di questo sito Web, in particolare per quelli forniti da terze parti. Nonostante un attento controllo del contenuto, non ci assumiamo alcuna responsabilità per il contenuto di collegamenti esterni. Gli operatori delle pagine collegate sono gli unici responsabili dei loro contenuti.",
+					"paragraph11": "Dichiarazione di non responsabilità per l'uso del contenuto di questo sito Web.",
+					"paragraph12": "I diritti d'autore relativi all'uso di immagini di opere d'arte appartengono sempre ai legittimi titolari. Questo portale Web può contenere contenuti di terze parti o può essere collegato a contenuti di terze parti rilevanti ai sensi del diritto penale. Vi preghiamo di chiederci l’autorizzazione prima di distribuire, riprodurre o sfruttare il contenuto di questo sito Web, come anche di ripubblicarlo su altri siti Web.",
+					"paragraph13": "",
+					"paragraph14": "Grazie per il 3D Folded DOM Layout Plugin di Daniel Velasquez pubblicato su Cropdrops.",
+					"paragraph15": "(Github Repository link)"
+				}
+			},
+			"exhibitionData": {
+				"fiona": {
+					"info": {
+						"part1": "Installazione, 2019",
+						"part2": "Foto: Manuel Ahnemüller"
+					},
+					"description": {
+						"paragraph1": "In che modo sperimentiamo la stabilità del suolo? Quali parametri definiscono l'instabilità del nostro ambiente? Un fondamento stabile è un'esigenza fondamentale nella vita di tutti i giorni",
+						"paragraph2": "L'installazione si basa sull'instabilità dei materiali impiegati. Scegliendo materiali con diversa stabilità strutturale e diverse condizioni, ci si trova di fronte a una struttura transitabile. Questi materiali ci circondano nella vita di tutti i giorni, ma di solito rimangono invisibili come parte di strutture più grandi. Il passaggio attraverso l'installazione dà vita un'esperienza tattile."
+					}
+				},
+				"winona": {
+					"info": "Installazione",
+					"description": {
+						"paragraph1": "La serie di sedute un / stable si compone di due gruppi ed è stata realizzata con l’obiettivo di cambiare l'esperienza del sedersi. Cosa succede se la seduta perde le caratteristiche a cui siamo abituati? Può un cambiamento del mobilio creare un diverso livello di comunicazione?"
+					}
+				},
+				"david": {},
+				"raphael": {
+					"link": "Vedere di più",
+					"description": {
+						"paragraph1": "L'atto si lega all'intelligenza umana della nostra società, ed è diviso in tre parti: 'mordere' - 'odorare' - 'guardare'. Mangiarsi le unghie calma il mio stato distopico.",
+						"paragraph2": "Mordo più velocemente e intensamente, strappo solo piccoli pezzi di unghia e li mordo con i miei incisivi. Posso pensare e mordere.",
+						"paragraph3": "L'odore delle unghie mi fa capire cosa sto facendo. Una parte di me pensa ad annusarmi. L'odore mi dà un'effimera sensazione di benessere, quindi il mio corpo prova il desiderio di continuare a mordere. Lo stress si materializza e scema.",
+						"paragraph4": "Guardare determina dove mi trovo veramente. Scopro quali unghie devo ancora a mordere. Il momento di guardare corrisponde ad un nuovo inizio dell'atto in tre parti."
+					}
+				},
+				"lukas": {
+					"info": "Installazione",
+					"link": "Vedere di più",
+					"description": {
+						"paragraph1": "Se partecipi alla vita in una società, ti integri automaticamente nelle sue strutture, consciamente o inconsciamente, volontariamente o forzatamente. Queste possono essere aperte oppure di meno facile accesso. Possono sostenere o aiutare i singoli, ma possono anche frenare, ostacolare o limitare le loro possibilità, abilità e diritti.",
+						"paragraph2": "La consapevolezza della presenza di queste strutture insorge solitamente quando esse esercitano un'influenza negativa sul fare, l'agire e il pensare. Quando ci si trova impotenti a riconoscere il fatto di essere finiti in strutture che non corrispondono all’immagine che abbiamo di noi stessi, il dubbio ci assale."
+					}
+				},
+				"manfred": {
+					"info": {
+						"part1": "Installazione, ",
+						"part2": "2017 Foto: Franziska Ziegler"
+					},
+					"link": "Vedere di più",
+					"description": "Il progetto 'Das letzte Hemd hat keine Taschen' offre un'alternativa contemporanea ai tradizionali riti funebri. Con la lenta vestizione del cadavere, si vuole creare un ultimo momento intimo tra il defunto e i suoi cari, permettendo così un dignitoso addio."
+				},
+				"isa": {
+					"info": "Fotografia",
+					"description": {
+						"paragraph1": "Nella serie THE BLUES di Isabelle Östlund lo stato d'animo diventa realtà. La storia della depressione, già nota come malinconia e male oscuro, risale ai tempi dell'antico medico greco Ippocrate. Egli descrisse la malattia come una grave infermità che includeva sintomi mentali e fisici come 'irrequietezza e prolungata paura'. La definizione dell'OMS (ICD-10) del disturbo depressivo è un concetto simile, ma molto più ampio.",
+						"paragraph2": "Lo psichiatra tedesco Emil Kraeplin è stato uno dei primi a usare il termine depressione per riferirsi ai diversi tipi di 'malinconia'. Oggi questo termine descrive molti diversi stati psicologici: dalla depressione emotiva ai disturbi dell'umore patologici.",
+						"paragraph3": "THE BLUES - i sentimenti di vuoto, disperazione e tristezza - sono ritratti composti, che sono stati ispirati dai maestri dell'arte e della storia della depressione.",
+						"paragraph4": "Fonti:",
+						"paragraph5": "Johannisson, Karin (2013): Melankoliska rum. Om ångest, leda och sårbarhet i förfluten tid och nutid. Stockholm (Albert Bonniers förlag).",
+						"paragraph6": "Davison, K (2006): Historical aspects of mood disorders. Psychiatry. 5 (4): 115-18",
+						"paaragraph7": "Organization, World Health / Staff, WHO / WHO, WHO (1992): The ICD-10 Classification of Mental and Behavioural Disorders. Clinical Descriptions and Diagnostic Guidelines. Geneva, Switzerland (World Health Organization)."
+					}
+				},
+				"elisa": {
+					"link": "Vedere di più",
+					"description": "Black Hole documenta ciò che succede all'interno di un aspirapolvere. Dopo una primo divertente impatto causato dal sovvertimento delle proporzioni e dall'assurdità di ciò che avviene, presto subentra la sensazione di non aver via d'uscita. Il crescente frastuono e la vista di questo buco nero, che assorbe senza pietà la materia e aumenta di massa, instillano un senso d'impotenza. Nel venir risucchiati ci trasformiamo in un Gregor Samsa rimpicciolito, diventando noi stessi un insetto risucchiato impietosamente."
+				},
+				"nia": {
+					"info": "Messaggi audio",
+					"description": {
+						"paragraph1": "Nel tentativo di parafrasare le mie lotte con le parole, a volte, quasi per caso, scrivo poesie. La verità è che non sono io a scrivere le poesie, - le poesie si scrivono da sole. Almeno è così che ci si sente.",
+						"paragraph2": "Nia Lejander ha registrato alcune delle sue poesie dal suo diario, che sono state scritte durante i momenti più bassi. In parte ironicamente divertente o profondamente triste, guarda la vita."
+					}
+				},
+				"carole": {
+					"info": "Collage di foto",
+					"description": "Avere un disturbo borderline di personalità significa vivere costantemente a cavallo tra la versione migliore e peggiore di sé stessi, attraversando spesso i confini dell'emozione e della ragione. L'artista affronta il suo passato, visualizza ed elabora la propria vita tra un estremo e l’altro. Da bambina, non riusciva ad immaginare quale sarebbe stata la sua vita a causa di questa difficile condizione."
+				},
+				"merani": {
+					"info": "Sculture",
+					"link": "Vedere di più",
+					"description": {
+						"paragraph1": "Un autoanticorpo (autoantibody) è un anticorpo prodotto dal sistema immunitario di un organismo allo scopo di attaccare il proprio tessuto sano.",
+						"paragraph2": "autoantibody.1 e autoantibody.2 fanno parte di una serie non ancora conclusa di sgabelli autodistruttivi."
+					}
+				},
+				"indra": {
+					"link": "Vedere di più",
+					"description": {
+						"paragraph1": "L'opera Sick (of) Me introduce lo spettatore nel mondo emotivo degli individui che soffrono di malattie mentali. Con l'aiuto di filtri fotografici per il viso, i sentimenti descritti sono rappresentati in modo astratto e viene mostrato come si sentono gli intervistati durante l’aspro confronto con la loro malattia nella vita di tutti i giorni.",
+						"paragraph2": "(Si tratta di esperienze individuali e non della malattia in generale)"
+					}
+				},
+				"dovile": {
+					"info": "Installazione video a 4 canali, 4:15 min, loop, 2019",
+					"description": "La paura è una delle emozioni più importanti ed è direttamente correlata al bisogno umano di sicurezza. L'installazione video cerca di rendere percepibile le diverse fasi della paura, riferendosi ad elementi naturali, come ad esempio vento, pioggia e nebbia. Gli stati emotivi oscillano tra le sensazione di vicinanza e distanza e sono paragonabili a delle forze esterne e alle forze della natura. Il numero quattro si riferisce ai cicli naturali, alle quattro stagioni o alle quattro fasi lunari. Il progetto riprende questa circolarità di eventi naturali che non hanno obiettivi lineari specifici."
+				},
+				"ale": {
+					"link": "Vedere di più",
+					"description": {
+						"paragraph1": "Il progetto è ispirato al libro di Francesca Rigotti ",
+						"paragraph2": "'De senectute'",
+						"paragraph3": ", che non tratta soltanto di come le donne vivono la vecchiaia, ma anche di ciò che distingue le donne dagli uomini in questa fase della vita: la perdita della fertilità.",
+						"paragraph4": "Il film inizia con le parole di una giovane donna che sta vivendo i cambiamenti biologici nel suo corpo. La donna con il vestito verde è intrappolata in una prigione astratta da un ciclo di gesti e immagini, unica cosa che si ripete senza fine."
+					}
+				},
+				"valentina": {
+					"link": "Vedere di più",
+					"description": {
+						"paragraph1": "Quando ci troviamo a dover attendere, il tempo ci pare spesso lento e interminabile. Un minuto sembra un anno. Questa animazione disegnata a mano mostra una ragazza che sta vivendo questo fenomeno. Quando siamo in attesa, lo spazio in cui ci troviamo diventando un microcosmo.",
+						"paragraph2": "Il nostro osservare e la nostra attenzione funzionano come una lente d'ingrandimento e ogni dettaglio captato dai sensi assume un significato superiore. In questo stato sperimentiamo il mondo come una strana realtà e scivoliamo in un sogno ad occhi aperti."
+					}
+				},
+				"hilka": {
+					"info": "Installazione",
+					"description": "Testing collectivity è un esperimento in fieri e tu sei invitato a partecipare. Le connessioni sono azioni partecipative e portano alla cooperazione. Il loro uso richiede comunicazione. Esse creano la struttura  di nuovi spazi d’azione. L'uomo crea l'esperienza collettiva come parte dell'oggetto. L'unico valore aggiunto risiede in un'esperienza emotiva. L'azione collettiva è fatta per se stessa. Non è efficiente."
+				},
+				"asisi": {
+					"info": "Installazione",
+					"description": {
+						"paragraph1": "La maggior parte dei sogni avviene durante la fase REM. In questa fase di sonno inquieto, elaboriamo e risolviamo problemi che ci interessano durante la veglia, ci confrontiamo con paure e mancanze, ci prepariamo per il futuro, dimentichiamo e ricordiamo.",
+						"paragraph2": "Questa installazione cerca di portare il processo fortemente umano del sogno nel mondo delle macchine e degli automi. A poco a poco, la memoria visiva del dispositivo crea nuove immagini che sono più di un semplice ricordo e forniscono informazioni su un subconscio speculativo."
+					}
+				},
+				"montau": {
+					"info": "Installazione audiovisuale",
+					"link": "Vedere di più",
+					"description": {
+						"paragraph1": "La mostra ",
+						"paragraph2": "“Angoli scuri”",
+						"paragraph3": " e l'intero festival LanaLive Underground vedranno per la loro conclusione un'installazione audiovisiva ad alto contenuto emozionale realizzata da Montau. Il compositore e produttore, residente a Berlino, crea ritmi tesi, ipnotici e paesaggi malinconici che si muovono tra densi e avvolgenti cortine sonore e deflagranti arrangiamenti ritmici.",
+						"paragraph4": "La prima assoluta di questa installazione, creata appositamente per il LanaLive, sarà trasmessa in un live streaming nel sito di Salto.bz e nel canale Facebook di LanaLive. Suoni meditativi e suadenti giochi cromatici inviteranno gli spettatori a rilassarsi, infondendo benessere mentale e chiudendo le porte del mondo sotterraneo, dell'Underground."
+					}
+				}
+			},
+			"footer": {
+				"imprint": "Politiche"
+			}
+		}
+	}
 }

@@ -1,5 +1,5 @@
-import { keyframes, css } from 'styled-components';
 import React, { useState, useRef, useEffect } from 'react';
+import { keyframes, css } from 'styled-components';
 import styled from 'styled-components';
 import { MouseDefault } from '../../assets/icons';
 

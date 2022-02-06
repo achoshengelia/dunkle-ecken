@@ -17,6 +17,7 @@ import Cursor from './components/Cursor/Cursor';
 import Loader from './components/Loader/Loader';
 
 import ScrollToTop from './components/helper/ScrollToTop';
+import NotFoundPage from './pages/NotFoundPage';
 
 function App() {
 	const [showMenu, setShowMenu] = useState(false);
@@ -43,7 +44,7 @@ function App() {
 
 			<Navbar handleToggleShowMenu={handleToggleShowMenu} showMenu={showMenu} />
 			<Routes>
-				<Route path='/' element={<HomePage />} />
+				<Route index element={<HomePage />} />
 				<Route path='/exhibition' element={<ExhibitionPage />} />
 				<Route path='/exhibition/:artName' element={<ExhibitPage />} />
 				<Route path='/messages' element={<AudiosPage />} />
@@ -51,6 +52,7 @@ function App() {
 				<Route path='/about' element={<AboutPage />} />
 				<Route path='/artists' element={<ArtistsPage />} />
 				<Route path='/imprint' element={<ImprintPage />} />
+				<Route path='*' element={<NotFoundPage />} />
 			</Routes>
 			<Footer />
 		</>

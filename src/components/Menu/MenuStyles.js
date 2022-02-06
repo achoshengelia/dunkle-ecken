@@ -6,7 +6,6 @@ export const Container = styled.nav`
 	z-index: 20;
 	display: flex;
 	justify-content: center;
-	/* align-items: center; */
 	height: 100vh;
 	width: 100%;
 	background-color: ${props => props.theme.colors.background};
@@ -15,7 +14,9 @@ export const Container = styled.nav`
 	}
 
 	@media ${props => props.theme.breakpoints.sm} {
-		padding-top: 4vh;
+		/* padding-top: 4vh; */
+		align-items: center;
+		margin-top: 4rem;
 	}
 `;
 
@@ -24,6 +25,9 @@ export const MenuPoints = styled.ul`
 	font-size: 6rem;
 	line-height: 8rem;
 	color: #e5e5e5;
+	display: flex;
+	flex-direction: column;
+
 	& li {
 		cursor: none;
 		transition: transform 0.3s ease-out;
@@ -37,14 +41,10 @@ export const MenuPoints = styled.ul`
 		}
 	}
 
-	@media ${props => props.theme.breakpoints.lg} {
-		font-size: 5.5rem;
-		line-height: 7rem;
-	}
-
 	@media ${props => props.theme.breakpoints.xs} {
-		font-size: 3.5rem;
+		font-size: 3rem;
 		line-height: 7rem;
+		align-items: center;
 	}
 
 	@media ${props => props.theme.breakpoints.sm} {
@@ -88,7 +88,15 @@ export const Language = styled.ul`
 
 	@media ${props => props.theme.breakpoints.xs} {
 		font-size: 2rem;
-		line-height: 7rem;
+		line-height: 2rem;
+		flex-direction: column;
+		align-items: center;
+		margin-top: 1.5rem;
+		& li {
+			&:not(:first-child) {
+				margin-left: 0rem;
+			}
+		}
 	}
 
 	@media ${props => props.theme.breakpoints.sm} {

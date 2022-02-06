@@ -13,13 +13,13 @@ export const Navbar = ({ handleToggleShowMenu, showMenu }) => {
 	return (
 		<Header>
 			<Center>
-				{!showMenu && (
-					<LogoContainer>
+				<LogoContainer>
+					{!showMenu && (
 						<Link to='/' className='pointer'>
 							<Mainlogo width='4.8rem' height='4.8rem' />
 						</Link>
-					</LogoContainer>
-				)}
+					)}
+				</LogoContainer>
 				<HamburgerContainer onClick={handleToggleShowMenu} className='pointer'>
 					<Hamburger showMenu={showMenu} className='pointer' />
 				</HamburgerContainer>

@@ -12,6 +12,7 @@ import pic7 from '../assets/pictures/home/007.png';
 import pic8 from '../assets/pictures/home/008.jpg';
 import pic9 from '../assets/pictures/home/009.png';
 import pic10 from '../assets/pictures/home/010.jpg';
+import { LinkArrow } from '../assets/icons';
 
 const gallery = [pic1, pic2, pic3, pic4, pic5, pic6, pic7, pic8, pic9, pic10];
 
@@ -34,7 +35,8 @@ export const HomePage = () => {
 	);
 	const link = (
 		<Link className='link pointer' to='/exhibition'>
-			{t('home.link')} ↗
+			{t('home.link')}
+			<LinkArrow width='1em' />
 		</Link>
 	);
 	return <Fold text={text} gallery={gallery} link={link} />;

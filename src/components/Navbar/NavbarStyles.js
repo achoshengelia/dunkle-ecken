@@ -3,36 +3,38 @@ import { Center } from '../../styles';
 
 export const LogoContainer = styled.div`
 	width: max-content;
+	@media ${props => props.theme.breakpoints.xs} {
+		& svg {
+			width: 4rem;
+			height: 4rem;
+		}
+	}
 `;
 
 export const Header = styled.header`
 	display: flex;
 	justify-content: center;
-	margin-top: 2rem;
 	width: 100%;
+	margin-top: 2rem;
 	position: fixed;
 	z-index: 5000;
 	${Center} {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
 		height: 4em;
 		width: 100%;
-		position: relative;
-		${LogoContainer} {
-			position: absolute;
-			margin-top: 0.5rem;
+		@media ${props => props.theme.breakpoints.xs} {
+			margin-inline: 1rem;
+			height: 2em;
 		}
 	}
 `;
 
 export const HamburgerContainer = styled.div`
-	position: absolute;
-	right: 0;
-	top: 0;
-	z-index: 30;
-	margin-top: 1.5rem;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	padding: 1em 0.8em;
 	width: max-content;
 	cursor: none;
 `;
