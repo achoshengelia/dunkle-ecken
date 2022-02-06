@@ -36,7 +36,6 @@ export const HomePage = () => {
 	const link = (
 		<Link className='link pointer' to='/exhibition'>
 			{t('home.link')}
-			<LinkArrow width='1em' />
 		</Link>
 	);
 	return <Fold text={text} gallery={gallery} link={link} />;

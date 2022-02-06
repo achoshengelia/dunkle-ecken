@@ -9,13 +9,12 @@ import pic6 from '../assets/pictures/exhibition/006.jpg';
 import pic7 from '../assets/pictures/exhibition/007.jpg';
 import pic8 from '../assets/pictures/exhibition/008.jpg';
 import { useTranslation } from 'react-i18next';
-import { LinkArrow } from '../assets/icons';
 
 const gallery = [pic1, pic2, pic3, pic4, pic5, pic6, pic7, pic8];
 
 const link = (
 	<a className='link pointer' href='https://lanalive.it/' target='_blank'>
-		lana live <LinkArrow width='1em' />
+		lana live
 	</a>
 );
 

@@ -5,20 +5,22 @@ export const Container = styled.nav`
 	position: fixed;
 	top: 0;
 	left: 0;
+	bottom: 0;
 	z-index: 20;
 	display: flex;
 	justify-content: center;
 	height: 100vh;
-	width: 100%;
+	width: 100vw;
 	background-color: ${props => props.theme.colors.background};
 	${Center} {
 		padding-top: 10vh;
 	}
 
 	@media ${props => props.theme.breakpoints.sm} {
-		/* padding-top: 4vh; */
 		align-items: center;
-		/* margin-top: 4rem; */
+		${Center} {
+			padding-top: 0;
+		}
 	}
 `;
 

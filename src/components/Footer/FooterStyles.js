@@ -17,6 +17,8 @@ export const Container = styled.footer`
 	font-size: 1.4rem;
 	margin-top: 5rem;
 	padding: 0 2rem;
+	z-index: 20;
+	position: relative;
 	${Center} {
 		display: flex;
 		flex-direction: column;
