@@ -8,7 +8,7 @@ const Video = styled.video`
 	position: fixed;
 	width: 100vw;
 	height: 100vh;
-	z-index: 10000;
+	z-index: 100000;
 	inset: 0;
 	background-color: #fff;
 	object-fit: cover;
@@ -29,14 +29,14 @@ const Loader = () => {
 		}
 	}, [videoRef]);
 
-	useEffect(() => {
+	const handleSetTimeout = (load, mount) => {
 		setTimeout(() => {
 			setIsLoaded(true);
-		}, 4200);
+		}, load);
 		setTimeout(() => {
 			setWillUnmount(true);
-		}, 5200);
-	}, []);
+		}, mount);
+	};
 
 	if (width < 701) {
 		return (
@@ -48,6 +48,7 @@ const Loader = () => {
 						muted
 						isLoaded={isLoaded}
 						ref={videoRef}
+						onCanPlay={() => handleSetTimeout(3200, 3500)}
 						preload='auto'>
 						<source src={mobileloader} type='video/mp4' />
 					</Video>
@@ -63,6 +64,7 @@ const Loader = () => {
 						muted
 						isLoaded={isLoaded}
 						ref={videoRef}
+						onCanPlay={() => handleSetTimeout(4200, 4500)}
 						preload='auto'>
 						<source src={loader} type='video/mp4' />
 					</Video>

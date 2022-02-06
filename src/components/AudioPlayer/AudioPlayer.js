@@ -68,7 +68,11 @@ const AudioPlayer = ({ audio }) => {
 		audioPlayer.currentTime = percent * audioPlayer.duration;
 	};
 
-	useEffect(() => setIsPlaying(false), [params]);
+	useEffect(() => {
+		setCurrentTime('00:00');
+		setPercentage(0);
+		setIsPlaying(false);
+	}, [params]);
 
 	useEffect(() => {
 		if (audioPlayer === undefined || audioPlayer === null) {
