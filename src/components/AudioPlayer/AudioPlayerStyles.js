@@ -5,7 +5,7 @@ export const RadioContainer = styled.div`
 	display: flex;
 	justify-content: center;
 	width: 100%;
-	max-height: 7rem;
+	max-height: 10rem;
 	bottom: 0;
 	background-color: black;
 `;
@@ -15,13 +15,15 @@ export const Radio = styled.div`
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: center;
+	width: 100%;
 	max-width: 128rem;
 	padding: 0.8em;
 	margin: 0 3rem;
 	border: solid 2px white;
 	background-color: black;
-	width: 100%;
-	margin-top: 0.5em;
+	margin: 0 2rem 2rem 2rem;
+
+	/* margin: 1em 0; */
 	@media ${props => props.theme.breakpoints.sm} {
 		width: 90%;
 	}

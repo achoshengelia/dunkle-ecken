@@ -129,26 +129,23 @@ export const IdContainer = styled.main`
 
 export const TextContainer = styled.div`
 	display: flex;
-	gap: 2em;
+	/* gap: 2em; */
 	align-self: center;
 	margin-top: 3rem;
 	width: 80%;
 
 	@media ${props => props.theme.breakpoints.xs} {
 		flex-direction: column;
-		padding-bottom: 10rem;
 	}
 
 	@media ${props => props.theme.breakpoints.sm} {
 		flex-direction: column;
-		padding-bottom: 10rem;
 	}
 
-	@media screen and (min-width: 600px) and (max-width: 900px) {
+	@media ${props => props.theme.breakpoints.md} {
 		flex-direction: column;
 		width: 95%;
-		margin-left: 2%;
-		padding-bottom: 13rem;
+		/* margin-left: 2%; */
 	}
 `;
 
@@ -176,14 +173,21 @@ export const Text = styled.p`
 	width: 100%;
 	font-size: 1.8rem;
 	line-height: 2.5rem;
-
+	margin-top: 2em;
+	padding-bottom: 12rem;
 	@media ${props => props.theme.breakpoints.xs} {
 		font-size: 1.4rem;
+		padding-bottom: 10rem;
 	}
 
 	@media ${props => props.theme.breakpoints.sm} {
+		padding-bottom: 15rem;
 		width: 98%;
 		font-size: 1.6rem;
+	}
+
+	@media ${props => props.theme.breakpoints.md} {
+		padding-bottom: 15rem;
 	}
 `;
 

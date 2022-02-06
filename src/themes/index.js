@@ -16,7 +16,7 @@ const theme = {
 	},
 	breakpoints: {
 		xs: 'screen and (max-width: 440px)',
-		sm: 'screen and (max-width: 640px) and (min-width: 441px)',
+		sm: 'screen and (min-width: 441px) and (max-width: 640px)',
 		md: 'screen and (max-width: 918px) and (min-width: 641px)',
 		lg: 'screen and (max-width: 1124px) and (min-width: 919px)',
 		xl: 'screen and (max-width: 1280px) and (min-width: 1125px)',

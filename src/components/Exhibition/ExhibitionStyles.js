@@ -103,7 +103,7 @@ export const ExhibitContainer = styled.div`
 	}
 `;
 
-export const IdContainer = styled.div`
+export const IdContainer = styled.main`
 	display: flex;
 	justify-content: center;
 	height: 100%;
@@ -120,6 +120,11 @@ export const IdContainer = styled.div`
 			/* justify-content: center; */
 		}
 	}
+	@media ${props => props.theme.breakpoints.xs} {
+		${Center} {
+			margin-bottom: 1em;
+		}
+	}
 `;
 
 export const Image = styled.img`
@@ -132,7 +137,7 @@ export const Image = styled.img`
 
 export const TextContainer = styled.section`
 	display: flex;
-	gap: 2em;
+	/* gap: 2em; */
 	align-self: center;
 	margin-top: 3rem;
 	width: 100%;
@@ -157,7 +162,7 @@ export const Description = styled.p`
 	width: 100%;
 	font-size: 1.8rem;
 	line-height: 2.5rem;
-
+	margin-top: 2em;
 	@media ${props => props.theme.breakpoints.xs} {
 		font-size: 1.4rem;
 	}
