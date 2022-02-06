@@ -5,36 +5,27 @@ export const Line = styled.div`
 	width: 100%;
 	height: 1px;
 	background-color: #e5e5e5;
-	/* align-self: center; */
+	margin-bottom: 1em;
 `;
 
 export const Container = styled.footer`
-	position: relative;
-	z-index: 5;
-	min-height: 8em;
 	width: 100%;
-
-	//why is this  affecting the hamburger menu?
 	display: flex;
+	align-items: center;
 	justify-content: center;
 	font-weight: 200;
 	font-size: 1.4rem;
-	/* padding-inline: 3rem; */
 	${Center} {
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		/* align-items: center; */
-		${Line} {
-			margin-bottom: 3rem;
-		}
 	}
 
 	@media screen and (max-width: 640px) {
 		font-size: 1.2rem;
 		/* margin-top: 4rem; */
 		${Center} {
-			margin-block: 4rem 2rem;
+			margin-block: 2rem;
 		}
 	}
 `;
@@ -42,7 +33,8 @@ export const Container = styled.footer`
 export const Content = styled.div`
 	display: flex;
 	justify-content: space-between;
-	/* padding-inline: 1rem; */
+	align-items: center;
+	min-height: 10rem;
 
 	@media screen and (max-width: 640px) {
 		flex-direction: row-reverse;
@@ -66,4 +58,4 @@ export const List = styled.ul`
 	}
 `;
 
-export const Mobile = styled.div``;
+// export const Mobile = styled.div``;

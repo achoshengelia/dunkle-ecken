@@ -1,5 +1,5 @@
 .wrapper {
-	height: 100%;
+	min-height: 100%;
 }
 
 .screen {
@@ -188,9 +188,6 @@ h1 {
 }
 
 @media screen and (max-width: 440px) {
-	.wrapper {
-		margin-bottom: 10rem;
-	}
 	.fold-content {
 		margin-top: 1.7rem;
 	}
