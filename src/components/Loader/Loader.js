@@ -24,6 +24,12 @@ const Loader = () => {
 	const { width } = useWindowDimensions();
 
 	useEffect(() => {
+		if (width < 701) {
+			videoRef.current.play();
+		}
+	}, []);
+
+	useEffect(() => {
 		setTimeout(() => {
 			setIsLoaded(true);
 		}, 4200);
@@ -36,7 +42,7 @@ const Loader = () => {
 		return (
 			<>
 				{!willUnmount ? (
-					<Video autoPlay playsinline muted isLoaded={isLoaded} ref={videoRef}>
+					<Video autoPlay muted isLoaded={isLoaded} ref={videoRef}>
 						<source src={mobileloader} type='video/mp4' />
 					</Video>
 				) : null}
