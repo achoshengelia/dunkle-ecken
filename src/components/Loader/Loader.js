@@ -27,7 +27,7 @@ const Loader = () => {
 		if (width < 701) {
 			videoRef.current.play();
 		}
-	}, []);
+	}, [videoRef]);
 
 	useEffect(() => {
 		setTimeout(() => {
@@ -42,8 +42,8 @@ const Loader = () => {
 		return (
 			<>
 				{!willUnmount ? (
-					<Video autoPlay muted isLoaded={isLoaded} ref={videoRef}>
-						<source src={mobileloader} type='video/mp4' />
+					<Video muted isLoaded={isLoaded} ref={videoRef} preload='auto'>
+						<source autoPlay playsinline src={mobileloader} type='video/mp4' />
 					</Video>
 				) : null}
 			</>
@@ -52,7 +52,12 @@ const Loader = () => {
 		return (
 			<>
 				{!willUnmount ? (
-					<Video autoPlay muted isLoaded={isLoaded} ref={videoRef}>
+					<Video
+						autoPlay
+						muted
+						isLoaded={isLoaded}
+						ref={videoRef}
+						preload='auto'>
 						<source src={loader} type='video/mp4' />
 					</Video>
 				) : null}
