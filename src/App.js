@@ -15,11 +15,11 @@ import ExhibitionPage from './pages/ExhibitionPage';
 import ExhibitPage from './pages/ExhibitPage';
 import Cursor from './components/Cursor/Cursor';
 import Loader from './components/Loader/Loader';
-
 import ScrollToTop from './components/helper/ScrollToTop';
 import NotFoundPage from './pages/NotFoundPage';
+import Layout from './Layout';
 
-function App() {
+const App = () => {
 	const [showMenu, setShowMenu] = useState(false);
 	const { i18n } = useTranslation();
 	const currLang = i18n.language;
@@ -41,22 +41,36 @@ function App() {
 			<Loader />
 			{!isMobile ? <Cursor /> : null}
 			{showMenu ? <Menu handleToggleShowMenu={handleToggleShowMenu} /> : null}
-
-			<Navbar handleToggleShowMenu={handleToggleShowMenu} showMenu={showMenu} />
 			<Routes>
-				<Route index element={<HomePage />} />
-				<Route path='/exhibition' element={<ExhibitionPage />} />
-				<Route path='/exhibition/:artName' element={<ExhibitPage />} />
-				<Route path='/messages' element={<AudiosPage />} />
-				<Route path='/messages/:messageId' element={<AudioPage />} />
-				<Route path='/about' element={<AboutPage />} />
-				<Route path='/artists' element={<ArtistsPage />} />
-				<Route path='/imprint' element={<ImprintPage />} />
-				<Route path='*' element={<NotFoundPage />} />
+				<Route
+					element={
+						<Layout
+							showFooter
+							handleToggleShowMenu={handleToggleShowMenu}
+							showMenu={showMenu}
+						/>
+					}>
+					<Route index element={<HomePage />} />
+					<Route path='/exhibition' element={<ExhibitionPage />} />
+					<Route path='/exhibition/:artName' element={<ExhibitPage />} />
+					<Route path='/messages' element={<AudiosPage />} />
+					<Route path='/about' element={<AboutPage />} />
+					<Route path='/artists' element={<ArtistsPage />} />
+					<Route path='/imprint' element={<ImprintPage />} />
+				</Route>
+				<Route
+					element={
+						<Layout
+							handleToggleShowMenu={handleToggleShowMenu}
+							showMenu={showMenu}
+						/>
+					}>
+					<Route path='/messages/:messageId' element={<AudioPage />} />
+					<Route path='*' element={<NotFoundPage />} />
+				</Route>
 			</Routes>
-			<Footer />
 		</>
 	);
-}
+};
 
 export default App;

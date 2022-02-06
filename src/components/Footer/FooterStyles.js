@@ -34,9 +34,7 @@ export const Container = styled.footer`
 		font-size: 1.2rem;
 		/* margin-top: 4rem; */
 		${Center} {
-			padding-block: 2rem;
-		}
-		${Line} {
+			margin-block: 4rem 2rem;
 		}
 	}
 `;

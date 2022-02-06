@@ -72,10 +72,12 @@ const GlobalStyles = createGlobalStyle`
     height: 100%;
     /* position: relative; */
     & #root{
-      /* display: flex;
+     
+      min-height: 100vh;
+      display: flex;
       flex-direction: column;
-      justify-content: center;
-      align-items: center */
+      justify-content: space-between;
+    
     }
   }
   #root {

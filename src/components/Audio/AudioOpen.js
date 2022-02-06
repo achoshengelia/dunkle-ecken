@@ -10,8 +10,6 @@ import {
 	Title,
 	Text,
 	LinkAudio,
-	RadioContainer,
-	Player,
 	Controler,
 	Play,
 	Bar,
@@ -33,6 +31,7 @@ const Audio = ({ audio }) => {
 	const barRef = useRef(null);
 	let audioPlayer = audioRef.current;
 	// const audioPlayer = document.getElementById("player");
+	console.log(isPlaying);
 
 	useEffect(() => {
 		if (audioPlayer === undefined || audioPlayer === null) {
@@ -115,31 +114,29 @@ const Audio = ({ audio }) => {
 					<Text>{audio.description}</Text>
 				</TextContainer>
 
-				<RadioContainer>
+				<Radio>
 					<audio
 						id='player'
 						ref={audioRef}
 						src={audio.url}
 						onTimeUpdate={initProgressBar}
 					/>
-					<Radio>
-						<Controler className='pointer'>
-							{!isPlaying ? (
-								<Play onClick={handleTogglePlay} className='pointer' />
-							) : (
-								<Pause onClick={handleTogglePlay} className='pointer' />
-							)}
-						</Controler>
-						<Progress>
-							<Bar ref={barRef} onClick={handleSeek} className='pointer'>
-								<Percentage
-									percentage={percentage}
-									className='pointer'></Percentage>
-							</Bar>
-						</Progress>
-						<Current>{currentTime}</Current>
-					</Radio>
-				</RadioContainer>
+					<Controler className='pointer'>
+						{!isPlaying ? (
+							<Play onClick={handleTogglePlay} className='pointer' />
+						) : (
+							<Pause onClick={handleTogglePlay} className='pointer' />
+						)}
+					</Controler>
+					<Progress>
+						<Bar ref={barRef} onClick={handleSeek} className='pointer'>
+							<Percentage
+								percentage={percentage}
+								className='pointer'></Percentage>
+						</Bar>
+					</Progress>
+					<Current>{currentTime}</Current>
+				</Radio>
 			</Center>
 		</IdContainer>
 	);

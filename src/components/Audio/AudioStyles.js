@@ -108,19 +108,17 @@ export const AudioContainer = styled.div`
 	}
 `;
 
-export const IdContainer = styled.div`
+export const IdContainer = styled.main`
 	display: flex;
-	flex-direction: column;
-	align-items: center;
 	justify-content: center;
-	height: 100%;
+	height: 100vh;
 	${Center} {
 		margin-top: 6em;
 		display: flex;
 		flex-direction: column;
 
 		/* margin-bottom: 6em; */
-		justify-content: center;
+		justify-content: flex-start;
 	}
 `;
 
@@ -170,6 +168,8 @@ export const Text = styled.p`
 	width: 100%;
 	font-size: 1.8rem;
 	line-height: 2.5rem;
+	max-height: 55rem;
+	overflow-y: auto;
 
 	@media ${props => props.theme.breakpoints.xs} {
 		font-size: 1.4rem;
@@ -204,21 +204,6 @@ export const LinkAudio = styled.span`
 	}
 `;
 
-export const RadioContainer = styled.div`
-	/* position: fixed; */
-	z-index: 10;
-	/* bottom: 0; */
-	/* left: 0; */
-	/* min-height: 13vh;
-	max-height: 15vh; */
-	margin-top: 2em;
-	width: 100%;
-	align-self: center;
-	@media ${props => props.theme.breakpoints.sm} {
-		width: 90%;
-	}
-`;
-
 export const Player = styled.div`
 	width: 100%;
 `;
@@ -226,7 +211,7 @@ export const Player = styled.div`
 export const Controler = styled.div``;
 
 export const Play = styled.button`
-	-webkit-appearance: none;
+	/* -webkit-appearance: none; */
 	outline: none;
 	cursor: none;
 	border: none;
@@ -303,10 +288,13 @@ export const Radio = styled.div`
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: center;
-	max-height: 13vh;
-	min-height: 5vh;
-	margin: 3%;
+	max-height: 7rem;
 	padding: 1rem;
 	border: solid 2px white;
-	margin-top: 0rem;
+	align-self: center;
+	width: 100%;
+	margin-top: 0.5em;
+	@media ${props => props.theme.breakpoints.sm} {
+		width: 90%;
+	}
 `;
