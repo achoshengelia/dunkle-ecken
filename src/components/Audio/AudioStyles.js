@@ -13,14 +13,16 @@ export const Container = styled.main`
 		gap: 1em;
 		margin-top: 6em;
 		justify-content: space-evenly;
-		margin-inline: 4rem;
+		/* margin-inline: 4rem; */
+		margin: 0 4rem;
 
 		@media ${props => props.theme.breakpoints.xs} {
 			grid-template-columns: repeat(1, 1fr);
 			margin-bottom: 2em;
 			margin-top: 8rem;
 			gap: 0.5em;
-			margin-inline: 2rem;
+			margin: 0 2rem;
+			/* margin-inline: 2rem; */
 		}
 
 		@media ${props => props.theme.breakpoints.sm} {

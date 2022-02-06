@@ -25,7 +25,8 @@ export const Header = styled.header`
 		height: 4em;
 		width: 100%;
 		@media ${props => props.theme.breakpoints.xs} {
-			margin-inline: 1rem;
+			/* margin-inline: 1rem; */
+			margin: 0 1rem;
 			height: 2em;
 		}
 	}
@@ -36,6 +37,7 @@ export const HamburgerContainer = styled.div`
 	justify-content: center;
 	align-items: center;
 	width: max-content;
+	height: 1.5em;
 	cursor: none;
 `;
 

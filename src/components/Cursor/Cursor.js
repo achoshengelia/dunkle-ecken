@@ -55,9 +55,11 @@ const Cursor = () => {
 
 	useEffect(() => {
 		document.addEventListener('mousemove', e => {
-			cursorRef.current.style.inset = `${e.clientY - 15}px auto auto ${
-				e.clientX - 15
-			}px`;
+			// cursorRef.current.style.inset = `${e.clientY - 15}px auto auto ${
+			// 	e.clientX - 15
+			// }px`;
+			cursorRef.current.style.top = `${e.clientY - 15}px`;
+			cursorRef.current.style.left = `${e.clientX - 15}px`;
 		});
 
 		document.addEventListener('mouseover', e => {
@@ -72,10 +74,27 @@ const Cursor = () => {
 				setIsDefault(true);
 				setIsPointer(false);
 			}
-			// const tgt = e.target;
-			// const inline = tgt.style.cursor || 'Not defined';
-			// const computed = window.getComputedStyle(tgt)['cursor'];
 		});
+		return () => {
+			document.removeEventListener('mousemove', e => {
+				cursorRef.current.style.inset = `${e.clientY - 15}px auto auto ${
+					e.clientX - 15
+				}px`;
+			});
+			document.removeEventListener('mouseover', e => {
+				if (
+					e.target.classList.contains('pointer') ||
+					e.target.classList.contains('swiper-button-next') ||
+					e.target.classList.contains('swiper-button-prev')
+				) {
+					setIsDefault(false);
+					setIsPointer(true);
+				} else {
+					setIsDefault(true);
+					setIsPointer(false);
+				}
+			});
+		};
 	}, [cursorRef, isDefault, isPointer]);
 
 	return (

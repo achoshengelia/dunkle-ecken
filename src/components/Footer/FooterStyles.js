@@ -15,6 +15,8 @@ export const Container = styled.footer`
 	justify-content: center;
 	font-weight: 200;
 	font-size: 1.4rem;
+	margin-top: 5rem;
+	padding: 0 2rem;
 	${Center} {
 		display: flex;
 		flex-direction: column;
@@ -25,7 +27,8 @@ export const Container = styled.footer`
 		font-size: 1.2rem;
 		/* margin-top: 4rem; */
 		${Center} {
-			margin-block: 2rem;
+			/* margin-block: 2rem; */
+			margin: 2rem 0;
 		}
 	}
 `;
@@ -48,12 +51,18 @@ export const Content = styled.div`
 
 export const List = styled.ul`
 	display: flex;
-	gap: 2.2em;
+	/* gap: 2.2em; */
 	height: max-content;
+	& > *:not(:last-child) {
+		margin-right: 2.2em;
+	}
 
 	@media screen and (max-width: 640px) {
 		flex-direction: column;
-		gap: 1.5em;
+		/* gap: 1.5em; */
+		& > *:not(:last-child) {
+			margin-bottom: 1.5em;
+		}
 		/* margin-bottom: 1.5em; */
 	}
 `;

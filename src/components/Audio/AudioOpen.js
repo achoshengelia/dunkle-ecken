@@ -106,7 +106,7 @@ const Audio = ({ audio }) => {
 							to={nextPath}
 							id='audiolink'
 							className='pointer'
-							onClick={handleTogglePlay}>
+							onClick={isPlaying ? handleTogglePlay : null}>
 							<LinkAudio className='pointer'>
 								{' '}
 								{i18n.language === 'de'

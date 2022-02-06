@@ -4,7 +4,7 @@ import { Center } from '../../styles';
 export const Container = styled.main`
 	display: flex;
 	justify-content: center;
-
+	margin-bottom: 5rem;
 	${Center} {
 		display: grid;
 		grid-template-columns: repeat(3, 1fr);
@@ -17,7 +17,8 @@ export const Container = styled.main`
 			grid-template-columns: repeat(1, 1fr);
 			margin-top: 9rem;
 			gap: 1em;
-			padding-inline: 0.5rem;
+			/* padding-inline: 0.5rem; */
+			padding: 0 0.5rem;
 		}
 
 		@media ${props => props.theme.breakpoints.sm} {

@@ -3,6 +3,8 @@ import { Center } from '../../styles';
 
 export const Container = styled.nav`
 	position: fixed;
+	top: 0;
+	left: 0;
 	z-index: 20;
 	display: flex;
 	justify-content: center;
@@ -16,7 +18,7 @@ export const Container = styled.nav`
 	@media ${props => props.theme.breakpoints.sm} {
 		/* padding-top: 4vh; */
 		align-items: center;
-		margin-top: 4rem;
+		/* margin-top: 4rem; */
 	}
 `;
 
