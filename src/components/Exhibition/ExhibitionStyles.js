@@ -47,15 +47,17 @@ export const MainImage = styled.img`
 	/* height: 100%; */
 	height: 28rem;
 	object-fit: cover;
-	&:hover {
-		cursor: none;
-		opacity: 0.7;
-		background: ${props => props.theme.colors.primaryYellow};
-		-webkit-filter: grayscale(1) sepia(40%) invert(12%) hue-rotate(23deg)
-			saturate(390%);
-		filter: grayscale(50) sepia(40%) invert(12%) hue-rotate(23deg)
-			saturate(390%);
-		transform: scale(1.01);
+	@media (hover: hover) {
+		&:hover {
+			cursor: none;
+			opacity: 0.7;
+			background: ${props => props.theme.colors.primaryYellow};
+			-webkit-filter: grayscale(1) sepia(40%) invert(12%) hue-rotate(23deg)
+				saturate(390%);
+			filter: grayscale(50) sepia(40%) invert(12%) hue-rotate(23deg)
+				saturate(390%);
+			transform: scale(1.01);
+		}
 	}
 	@media ${props => props.theme.breakpoints.xs} {
 		height: 20rem;
@@ -90,10 +92,12 @@ export const ExhibitContainer = styled.div`
 	&:not(:last-child) {
 		margin-bottom: 1em;
 	}
-	&:hover {
-		cursor: crosshair;
-		${Name} {
-			color: ${props => props.theme.colors.primaryYellow};
+	@media (hover: hover) {
+		&:hover {
+			cursor: crosshair;
+			${Name} {
+				color: ${props => props.theme.colors.primaryYellow};
+			}
 		}
 	}
 `;
@@ -177,11 +181,12 @@ export const Name2 = styled.h4`
 	& a {
 		cursor: none;
 		transition: transform 0.3s ease-out;
-
-		&:hover {
-			color: #ebff06;
-			font-family: 'Montserrat', Times, serif;
-			font-style: italic;
+		@media (hover: hover) {
+			&:hover {
+				color: #ebff06;
+				font-family: 'Montserrat', Times, serif;
+				font-style: italic;
+			}
 		}
 	}
 

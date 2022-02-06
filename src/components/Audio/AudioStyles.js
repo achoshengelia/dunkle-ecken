@@ -95,13 +95,15 @@ export const AudioContainer = styled.div`
 	&:not(:last-child) {
 		margin-bottom: 1em;
 	}
-	&:hover {
-		cursor: none;
-		opacity: 0.7;
-		background: ${props => props.theme.colors.primaryYellow};
-		transform: scale(1.01);
-		color: black;
-		border: 1px solid ${props => props.theme.colors.primaryYellow};
+	@media (hover: hover) {
+		&:hover {
+			cursor: none;
+			opacity: 0.7;
+			background: ${props => props.theme.colors.primaryYellow};
+			transform: scale(1.01);
+			color: black;
+			border: 1px solid ${props => props.theme.colors.primaryYellow};
+		}
 	}
 	@media ${props => props.theme.breakpoints.xs} {
 		height: 15rem;
@@ -186,13 +188,14 @@ export const LinkAudio = styled.span`
 	text-align: left;
 	font-family: 'Montserrat', 'Arial', sans-serif;
 	font-weight: 300;
-
-	&:hover {
-		cursor: none;
-		transition: transform 0.3s ease-out;
-		color: ${props => props.theme.colors.primaryYellow};
-		font-style: italic;
-		transform: translateY(40px);
+	@media (hover: hover) {
+		&:hover {
+			cursor: none;
+			transition: transform 0.3s ease-out;
+			color: ${props => props.theme.colors.primaryYellow};
+			font-style: italic;
+			transform: translateY(40px);
+		}
 	}
 
 	@media ${props => props.theme.breakpoints.xs} {
@@ -220,10 +223,11 @@ export const Play = styled.button`
 	background: url('https://img.icons8.com/ios-filled/100/ffffff/play--v1.png')
 		no-repeat center;
 	background-size: contain;
-
-	&:hover {
-		-webkit-filter: sepia(40%) hue-rotate(23deg) saturate(390%);
-		filter: sepia(1000%) hue-rotate(23deg) saturate(790%);
+	@media (hover: hover) {
+		&:hover {
+			-webkit-filter: sepia(40%) hue-rotate(23deg) saturate(390%);
+			filter: sepia(1000%) hue-rotate(23deg) saturate(790%);
+		}
 	}
 
 	&.pause {

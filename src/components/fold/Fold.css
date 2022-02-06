@@ -101,25 +101,26 @@ h1 {
 	line-height: 8rem;
 	display: inline-block;
 }
-.link:hover {
-	transform: translateX(4%);
-	color: #ebff06;
-	font-family: 'lacklineregular', Times, serif;
-}
-.link:hover .link-arrow {
-	fill: #ebff06 !important;
+@media (hover: hover) {
+	.link:hover {
+		transform: translateX(4%);
+		color: #ebff06;
+		font-family: 'lacklineregular', Times, serif;
+	}
+	.link:hover .link-arrow {
+		fill: #ebff06 !important;
+	}
+	.linkstyle:hover {
+		transition: transform 0.3s ease-out;
+		transform: translateX(4%);
+		color: #ebff06;
+		font-family: 'lackregular', Times, serif;
+	}
 }
 
 .support {
 	font-size: 2.5rem;
 	font-weight: 400;
-}
-
-.linkstyle:hover {
-	transition: transform 0.3s ease-out;
-	transform: translateX(4%);
-	color: #ebff06;
-	font-family: 'lackregular', Times, serif;
 }
 
 .caption {
@@ -187,6 +188,9 @@ h1 {
 }
 
 @media screen and (max-width: 440px) {
+	.wrapper {
+		margin-bottom: 10rem;
+	}
 	.fold-content {
 		margin-top: 1.7rem;
 	}

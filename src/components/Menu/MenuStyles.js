@@ -34,10 +34,12 @@ export const MenuPoints = styled.ul`
 		padding: 0.15em;
 		width: max-content;
 		text-transform: uppercase;
-		&:hover {
-			transform: translateX(4%);
-			color: #ebff06;
-			font-family: 'lacklineregular', Times, serif;
+		@media (hover: hover) {
+			&:hover {
+				transform: translateX(4%);
+				color: #ebff06;
+				font-family: 'lacklineregular', Times, serif;
+			}
 		}
 	}
 
@@ -78,11 +80,13 @@ export const Language = styled.ul`
 		&:not(:first-child) {
 			margin-left: 2.2rem;
 		}
-		&:hover {
-			transform: translateX(10%);
-			color: #ebff06;
-			font-family: 'Montserrat', Times, serif;
-			font-style: italic;
+		@media (hover: hover) {
+			&:hover {
+				transform: translateX(10%);
+				color: #ebff06;
+				font-family: 'Montserrat', Times, serif;
+				font-style: italic;
+			}
 		}
 	}
 
