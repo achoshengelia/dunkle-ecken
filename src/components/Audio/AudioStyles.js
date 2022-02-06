@@ -110,19 +110,17 @@ export const AudioContainer = styled.div`
 
 export const IdContainer = styled.div`
 	display: flex;
+	flex-direction: column;
+	align-items: center;
 	justify-content: center;
 	height: 100%;
 	${Center} {
 		margin-top: 6em;
 		display: flex;
 		flex-direction: column;
-		margin-bottom: 6em;
-		justify-content: center;
 
-		div {
-			max-width: 100rem;
-			display: flex;
-		}
+		/* margin-bottom: 6em; */
+		justify-content: center;
 	}
 `;
 
@@ -131,7 +129,7 @@ export const TextContainer = styled.div`
 	gap: 2em;
 	align-self: center;
 	margin-top: 3rem;
-	width: 100%;
+	width: 80%;
 
 	@media ${props => props.theme.breakpoints.xs} {
 		flex-direction: column;
@@ -207,15 +205,18 @@ export const LinkAudio = styled.span`
 `;
 
 export const RadioContainer = styled.div`
-	position: fixed;
+	/* position: fixed; */
 	z-index: 10;
-	bottom: 0;
-	left: 0;
-	min-height: 13vh;
-	max-height: 15vh;
-
+	/* bottom: 0; */
+	/* left: 0; */
+	/* min-height: 13vh;
+	max-height: 15vh; */
+	margin-top: 2em;
 	width: 100%;
-	background-color: black;
+	align-self: center;
+	@media ${props => props.theme.breakpoints.sm} {
+		width: 90%;
+	}
 `;
 
 export const Player = styled.div`

@@ -3,7 +3,7 @@ import { Center } from '../../styles';
 
 export const Line = styled.div`
 	width: 100%;
-	height: 0.09px;
+	height: 1px;
 	background-color: #e5e5e5;
 	/* align-self: center; */
 `;

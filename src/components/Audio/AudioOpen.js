@@ -114,33 +114,33 @@ const Audio = ({ audio }) => {
 					</Title>
 					<Text>{audio.description}</Text>
 				</TextContainer>
-			</Center>
 
-			<RadioContainer>
-				<audio
-					id='player'
-					ref={audioRef}
-					src={audio.url}
-					onTimeUpdate={initProgressBar}
-				/>
-				<Radio>
-					<Controler className='pointer'>
-						{!isPlaying ? (
-							<Play onClick={handleTogglePlay} className='pointer' />
-						) : (
-							<Pause onClick={handleTogglePlay} className='pointer' />
-						)}
-					</Controler>
-					<Progress>
-						<Bar ref={barRef} onClick={handleSeek} className='pointer'>
-							<Percentage
-								percentage={percentage}
-								className='pointer'></Percentage>
-						</Bar>
-					</Progress>
-					<Current>{currentTime}</Current>
-				</Radio>
-			</RadioContainer>
+				<RadioContainer>
+					<audio
+						id='player'
+						ref={audioRef}
+						src={audio.url}
+						onTimeUpdate={initProgressBar}
+					/>
+					<Radio>
+						<Controler className='pointer'>
+							{!isPlaying ? (
+								<Play onClick={handleTogglePlay} className='pointer' />
+							) : (
+								<Pause onClick={handleTogglePlay} className='pointer' />
+							)}
+						</Controler>
+						<Progress>
+							<Bar ref={barRef} onClick={handleSeek} className='pointer'>
+								<Percentage
+									percentage={percentage}
+									className='pointer'></Percentage>
+							</Bar>
+						</Progress>
+						<Current>{currentTime}</Current>
+					</Radio>
+				</RadioContainer>
+			</Center>
 		</IdContainer>
 	);
 };
