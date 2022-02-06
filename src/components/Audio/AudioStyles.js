@@ -22,6 +22,7 @@ export const Container = styled.main`
 			margin-top: 8rem;
 			gap: 0.5em;
 			margin: 0 2rem;
+			margin-top: 6em;
 			/* margin-inline: 2rem; */
 		}
 
@@ -116,7 +117,7 @@ export const IdContainer = styled.main`
 	display: flex;
 	justify-content: center;
 	width: 100%;
-	height: 100vh;
+	/* height: 100vh; */
 	${Center} {
 		margin-top: 6em;
 		display: flex;

@@ -31,7 +31,7 @@ const CursorStyles = styled.i`
 	width: 3rem;
 	border-radius: 100%;
 	position: fixed;
-	z-index: 1000;
+	z-index: 99000;
 	pointer-events: none;
 	animation: ${({ isPointer }) =>
 		!isPointer

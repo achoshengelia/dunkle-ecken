@@ -107,24 +107,27 @@ export const IdContainer = styled.main`
 	display: flex;
 	justify-content: center;
 	height: 100%;
+
 	${Center} {
-		margin-top: 6em;
+		margin-top: auto;
 		display: flex;
-		margin-bottom: 6em;
-		/* flex-direction: column; */
+		/* margin-bottom: 6em; */
+		flex-direction: column;
 		justify-content: center;
-		div {
-			max-width: 100rem;
-			display: flex;
-			flex-direction: column;
-			/* justify-content: center; */
-		}
+		align-items: center;
 	}
 	@media ${props => props.theme.breakpoints.xs} {
 		${Center} {
 			margin-bottom: 1em;
 		}
 	}
+`;
+
+export const CardContainer = styled.div`
+	display: flex;
+	flex-direction: column;
+	align-self: center;
+	margin-top: min(15vh, 10em);
 `;
 
 export const Image = styled.img`

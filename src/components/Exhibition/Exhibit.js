@@ -9,13 +9,14 @@ import {
 	NamesContainer,
 	TextContainer,
 	Name2,
+	CardContainer,
 } from './ExhibitionStyles';
 
 const Exhibit = ({ exhibit }) => {
 	return (
 		<IdContainer>
 			<Center>
-				<div>
+				<CardContainer>
 					<Image src={exhibit.image} />
 					<TextContainer>
 						<NamesContainer>
@@ -35,7 +36,7 @@ const Exhibit = ({ exhibit }) => {
 						</NamesContainer>
 						<Description>{exhibit.description}</Description>
 					</TextContainer>
-				</div>
+				</CardContainer>
 			</Center>
 		</IdContainer>
 	);

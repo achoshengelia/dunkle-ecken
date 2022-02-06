@@ -69,10 +69,7 @@ const GlobalStyles = createGlobalStyle`
     background-color: ${props => props.theme.colors.background};
     color: ${props => props.theme.colors.primary1};
     cursor: none;
-    height: 100%;
-    /* position: relative; */
     & #root{
-     
       min-height: 100vh;
       display: flex;
       flex-direction: column;

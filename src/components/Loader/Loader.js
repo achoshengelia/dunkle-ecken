@@ -42,8 +42,14 @@ const Loader = () => {
 		return (
 			<>
 				{!willUnmount ? (
-					<Video muted isLoaded={isLoaded} ref={videoRef} preload='auto'>
-						<source autoPlay playsinline src={mobileloader} type='video/mp4' />
+					<Video
+						autoPlay
+						playsInline
+						muted
+						isLoaded={isLoaded}
+						ref={videoRef}
+						preload='auto'>
+						<source src={mobileloader} type='video/mp4' />
 					</Video>
 				) : null}
 			</>

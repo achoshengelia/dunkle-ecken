@@ -30,6 +30,7 @@ export const Radio = styled.div`
 	@media ${props => props.theme.breakpoints.xs} {
 		/* margin-inline: 1.5rem; */
 		margin: 0 1.5rem;
+		margin-bottom: 2rem;
 	}
 `;
 

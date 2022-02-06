@@ -6,10 +6,10 @@ export const Container = styled.nav`
 	top: 0;
 	left: 0;
 	bottom: 0;
-	z-index: 25;
+	z-index: 2000;
 	display: flex;
 	justify-content: center;
-	height: 100vh;
+	height: 100%;
 	width: 100vw;
 	background-color: ${props => props.theme.colors.background};
 	${Center} {
