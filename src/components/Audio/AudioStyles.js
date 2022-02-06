@@ -257,7 +257,7 @@ export const Pause = styled.button`
 
 export const Progress = styled.div`
 	position: relative;
-	width: 90rem;
+	width: 85%;
 	margin: 0 5px;
 	height: 10px;
 `;

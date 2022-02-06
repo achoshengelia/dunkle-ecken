@@ -102,7 +102,11 @@ const Audio = ({ audio }) => {
 						{audio.zitat}
 						<br />
 						<br />
-						<Link to={nextPath} id='audiolink' className='pointer'>
+						<Link
+							to={nextPath}
+							id='audiolink'
+							className='pointer'
+							onClick={handleTogglePlay}>
 							<LinkAudio className='pointer'>
 								{' '}
 								{i18n.language === 'de'
