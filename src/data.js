@@ -16,6 +16,7 @@ import raphael from './assets/ArtistsPictures/raphael.png';
 import carolina from './assets/ArtistsPictures/carolina.jpg';
 import david from './assets/ArtistsPictures/david.jpg';
 import isa2 from './assets/ArtistsPictures/isabelle2.jpg';
+import nia from './assets/ArtistsPictures/nia.jpeg';
 
 export const artistsData = [
 	{
@@ -104,7 +105,7 @@ export const artistsData = [
 	{
 		name: 'NIA LEJANDER',
 		portfolio: '',
-		img: '',
+		img: nia,
 	},
 	{
 		name: 'DAVID REITENBACH',
@@ -340,7 +341,7 @@ export const exhibitionData = [
 		id: 'Extractsfromthediary',
 		artName: 'Extracts from the diary',
 		artistName: 'Nia Lejander',
-		image: fiona,
+		image: nia,
 		description: (
 			<>
 				"In an attempt to paraphrase my struggles with words, I sometimes,

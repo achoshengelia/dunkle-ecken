@@ -35,7 +35,7 @@ export const HomePage = () => {
 	);
 	const link = (
 		<Link className='link pointer' to='/exhibition'>
-			{t('home.link')}
+			{t('home.link')} <LinkArrow />
 		</Link>
 	);
 	return <Fold text={text} gallery={gallery} link={link} />;
