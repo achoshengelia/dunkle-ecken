@@ -134,7 +134,9 @@ export const TextContainer = styled.div`
 	align-self: center;
 	margin-top: 3rem;
 	width: 80%;
-
+	& *:not(:last-child) {
+		margin-right: 2em;
+	}
 	@media ${props => props.theme.breakpoints.xs} {
 		flex-direction: column;
 	}
