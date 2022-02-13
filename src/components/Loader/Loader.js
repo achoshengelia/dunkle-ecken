@@ -61,6 +61,7 @@ const Loader = () => {
 				{!willUnmount ? (
 					<Video
 						autoPlay
+						playsInline
 						muted
 						isLoaded={isLoaded}
 						ref={videoRef}

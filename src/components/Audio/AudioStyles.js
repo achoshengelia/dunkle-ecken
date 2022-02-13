@@ -174,7 +174,6 @@ export const Text = styled.p`
 	width: 100%;
 	font-size: 1.8rem;
 	line-height: 2.5rem;
-	margin-top: 2em;
 	padding-bottom: 12rem;
 	@media ${props => props.theme.breakpoints.xs} {
 		font-size: 1.4rem;

@@ -126,8 +126,10 @@ export const IdContainer = styled.main`
 export const CardContainer = styled.div`
 	display: flex;
 	flex-direction: column;
+	justify-content: flex-start;
 	align-self: center;
 	margin-top: min(15vh, 10em);
+	max-width: 100rem;
 `;
 
 export const Image = styled.img`
@@ -165,7 +167,7 @@ export const Description = styled.p`
 	width: 100%;
 	font-size: 1.8rem;
 	line-height: 2.5rem;
-	margin-top: 2em;
+	/* margin-top: 2em; */
 	@media ${props => props.theme.breakpoints.xs} {
 		font-size: 1.4rem;
 	}
