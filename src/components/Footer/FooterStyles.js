@@ -16,7 +16,6 @@ export const Container = styled.footer`
 	font-weight: 200;
 	font-size: 1.4rem;
 	margin-top: 5rem;
-	padding: 0 2rem;
 	z-index: 20;
 	position: relative;
 	${Center} {
@@ -28,10 +27,6 @@ export const Container = styled.footer`
 	@media screen and (max-width: 640px) {
 		font-size: 1.2rem;
 		/* margin-top: 4rem; */
-		${Center} {
-			/* margin-block: 2rem; */
-			margin: 2rem 0;
-		}
 	}
 `;
 
@@ -43,7 +38,8 @@ export const Content = styled.div`
 
 	@media screen and (max-width: 640px) {
 		flex-direction: row-reverse;
-		/* margin-bottom: 2em; */
+		align-items: flex-end;
+		margin-bottom: 2em;
 
 		& p {
 			align-self: flex-end;

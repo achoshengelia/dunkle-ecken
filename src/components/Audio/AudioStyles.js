@@ -139,10 +139,16 @@ export const TextContainer = styled.div`
 	}
 	@media ${props => props.theme.breakpoints.xs} {
 		flex-direction: column;
+		& *:not(:last-child) {
+			margin-bottom: 2em;
+		}
 	}
 
 	@media ${props => props.theme.breakpoints.sm} {
 		flex-direction: column;
+		& *:not(:last-child) {
+			margin-bottom: 2em;
+		}
 	}
 
 	@media ${props => props.theme.breakpoints.md} {

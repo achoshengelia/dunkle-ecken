@@ -3,10 +3,12 @@ import { Center } from '../../styles';
 
 export const LogoContainer = styled.div`
 	width: max-content;
+
 	@media ${props => props.theme.breakpoints.xs} {
 		& svg {
 			width: 4rem;
 			height: 4rem;
+			margin-top: 0.7em;
 		}
 	}
 `;

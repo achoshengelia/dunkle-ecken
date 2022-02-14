@@ -142,7 +142,6 @@ export const Image = styled.img`
 
 export const TextContainer = styled.section`
 	display: flex;
-	/* gap: 2em; */
 	align-self: center;
 	margin-top: 3rem;
 	width: 100%;
@@ -158,6 +157,7 @@ export const TextContainer = styled.section`
 export const NamesContainer = styled.div`
 	width: 50%;
 	font-size: 2.3rem;
+	margin-right: 3rem;
 	@media ${props => props.theme.breakpoints.xs} {
 		width: 100%;
 	}
@@ -203,13 +203,16 @@ export const Name2 = styled.h4`
 
 	@media ${props => props.theme.breakpoints.xs} {
 		font-size: 1.5rem;
+		margin-bottom: 2rem;
 	}
 
 	@media ${props => props.theme.breakpoints.sm} {
 		font-size: 1.6rem;
+		margin-bottom: 2rem;
 	}
 
 	@media ${props => props.theme.breakpoints.md} {
 		font-size: 1.7rem;
+		margin-bottom: 2rem;
 	}
 `;
