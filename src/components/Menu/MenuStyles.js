@@ -8,25 +8,20 @@ export const Container = styled.nav`
 	bottom: 0;
 	z-index: 2000;
 	display: flex;
+	align-items: center;
 	justify-content: center;
 	height: 100%;
 	width: 100vw;
 	background-color: ${props => props.theme.colors.background};
-	${Center} {
-		padding-top: 10vh;
-	}
 
 	@media ${props => props.theme.breakpoints.sm} {
 		align-items: center;
-		${Center} {
-			padding-top: 0;
-		}
 	}
 `;
 
 export const MenuPoints = styled.ul`
 	font-family: ${props => props.theme.fonts.title};
-	font-size: 6rem;
+	font-size: 8rem;
 	line-height: 8rem;
 	color: #e5e5e5;
 	display: flex;

@@ -58,9 +58,12 @@ const GlobalStyles = createGlobalStyle`
     background: ${props => props.theme.colors.primaryYellow};
     color: black;
   }
+  ::-webkit-scrollbar {
+    display: none;
+  }
   html {
     font-size: 62.5%;
-    /* scroll-behavior: smooth; */
+    -ms-overflow-style: none;
   }
   body {
     box-sizing: border-box;

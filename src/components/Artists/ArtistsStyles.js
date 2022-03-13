@@ -20,14 +20,9 @@ export const ArtistList = styled.ul`
 	color: #e5e5e5;
 	padding-top: 2em;
 
-	@media ${props => props.theme.breakpoints.lg} {
-		font-size: 5.5rem;
-		line-height: 7rem;
-	}
-
 	@media ${props => props.theme.breakpoints.xs} {
-		font-size: 2.7rem;
-		line-height: 7rem;
+		font-size: 2.2rem;
+		line-height: 6rem;
 	}
 
 	@media ${props => props.theme.breakpoints.sm} {
